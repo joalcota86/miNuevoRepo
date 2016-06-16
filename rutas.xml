@@ -97,9 +97,9 @@
 <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>m3u8</name>
+<name>pelicula</name>
 <expres>ea \+ "(.*?)"</expres>
-<page>http://www.mips.tv/membedplayer/verliga2223/1/680/380</page>
+<page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.mips.tv</referer>
 </regex>
