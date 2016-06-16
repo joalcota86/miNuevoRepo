@@ -86,51 +86,15 @@
      <fanart>https://image.tmdb.org/t/p/original/zchSMYxvRivumqWhnsYZFyhriTy.jpg</fanart>
      <genre>Comedia</genre>      </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>http://www.spruto.tv/get_file/1/9a3a734adee79cf55de6473e49ce8b1f/181000/181241/181241.mp4</link>
 <title>Compadres (2016) calidad TS</title>
 <thumbnail>https://image.tmdb.org/t/p/w500/cQfWEHdTYFI4ljckuCa8DRKSRm2.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/u7wlXy6MikPwuxrtWkchhigtfOY.jpg</fanart>
 </item>
 	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
 	<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1sh5pp5rjxl5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 hdrip latino gnula</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
      <genre>Guerra, Suspense, Drama, Acción</genre></item> 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wqkvuwi4q6xu-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 720p vose</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
@@ -190,14 +154,9 @@
      <fanart>https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg</fanart>
      <genre>Animación, Aventura, Familia, Comedia</genre></item>
 
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sgb3ot9ab747-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Angry Birds 2016 tshq </title><thumbnail>https://image.tmdb.org/t/p/w500/t2mZzQXjpQxmqtJOPpe8Dr2YpMl.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg</fanart>
      <genre>Animación, Comedia</genre></item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-kgu9dxp6m62h-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Buenos Vecinos 2016 ts </title>     <thumbnail>https://image.tmdb.org/t/p/w500/qMJ7DSAQeTdBEs9tGFohWs2aB6n.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
@@ -236,24 +195,10 @@
      <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
      <genre>Comedia</genre></item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ksakg8mj78t5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Deadpool</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/kS3pI9nSLZuX8CAzaQOBF6mQ3uX.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
      <genre>Acción, Aventura, Comedia</genre> </item>
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yyc9fqmcxp0i-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Witch - BRS </title>    <thumbnail>https://image.tmdb.org/t/p/w500/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/v9oJ6MaO5wdBEa20dzG6OAhoM8h.jpg</fanart>
@@ -304,15 +249,6 @@
      <fanart>https://image.tmdb.org/t/p/original/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg</fanart>
      <genre>Animación, Comedia</genre>
  </item>
-
-
-
-
-
-
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mzm9sfqq7dqc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>El Cumple de la Abuela 2015 dvdrip </title>   <thumbnail>https://image.tmdb.org/t/p/w500/qftkUGIHvyALrKcsZ5UrPGhVwq0.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/xbBDiOFJjYrRuIVatS59vEyvHaZ.jpg</fanart>
@@ -377,12 +313,6 @@
      <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
      <genre>Comedia</genre>        </item>
 
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sa2x73uhk18y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Avenida Cloverfield 10</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg</fanart>
@@ -421,43 +351,23 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
      <genre>Comedia</genre></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6i305mjz1nv3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Ominous</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/hlX5bI7buFwzRsPyQga50yUpcXQ.jpg</thumbnail>
      <fanart> </fanart>
      <genre>Terror</genre></item>
-	 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jizl6vzhn2xo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          
    <title>Nunca es Tarde</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/iOOtEUE6BZHkNeGIGDZLYCbpb5h.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/2Af531SGBYtkKRwpSuZhV6JsHhL.jpg</fanart>
      <genre>Comedia, Drama, Música</genre></item>
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8kn7xxsy62ud-740x360.html</page>	 <referer>http://streamin.to</referer></regex> 
-
 <title>Krampus</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/wsQuufskkPUcxuFpNZvJ24mSfpD.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/5GsJuYZuG1bkuSI8FeWol5nvR9S.jpg</fanart>
      <genre>Terror, Comedia, Fantasía</genre></item>
-	 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mxme9yagaxgr]-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Look Who's Back</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/txX7m1ZYTpKv1yqO0E6IRSlCfKQ.jpg</thumbnail>
@@ -474,14 +384,11 @@
      <fanart>https://image.tmdb.org/t/p/original/wsoOmoN9mcErbCEFH4SveuD28Si.jpg</fanart>
      <genre>Comedia, Música, Guerra</genre></item>
 	 
-	 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-psfmmausoosg-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          
     <title>The Black Rider: Revelation Road</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/wIBfFaJaCutKUUuPMRxoQx7ZN6g.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/ykW863g9VpPMPGXN0z7v5XJvMJ6.jpg</fanart>
      <genre>Suspense, Fantasía, Acción, Drama</genre></item>
-	 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zcstf556nmh4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Revenant: El Renacido</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/uVb4ejquff6LLSeJxcMGtAP8fSP.jpg</thumbnail>
@@ -497,12 +404,6 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/6K2lXVKeVpPf6ohDSaiB1hZeX3T.jpg</thumbnail>
      <fanart> </fanart>
      <genre>Música, Drama, Familia</genre></item>
-
-
-
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5xnrki8dna71-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Avenida Cloverfield 10</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg</thumbnail>
@@ -524,15 +425,11 @@
      <fanart>https://image.tmdb.org/t/p/original/dGcyU5Uhk49rVtpuHKVIwtMAOiP.jpg</fanart>
      <genre>Comedia, Drama</genre></item>
 	 
-	 
-	 
-	 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6arxtwlyjlpp-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Leal</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/rUnKJZrDXdSx3GsUu8he6FKHOIf.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/jaoDlr7XGGtHs1VpN9macrbXheO.jpg</fanart>
      <genre>Aventura, Ciencia ficción</genre></item>
-	 
-	 
+     
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d39980fui62u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Norm of the north</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/qv09dxeJoNQIbalsl47yObGgcc5.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/v1zDOkk97wrX40QXm2mArs6fnP0.jpg</fanart>
@@ -552,9 +449,7 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/ps0vt8CZEFuWbRvGBdZSsUmjV2d.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/njv65RTipNSTozFLuF85jL0bcQe.jpg</fanart>
      <genre>Acción, Aventura, Ciencia ficción, Fantasía</genre></item>
-	 
-	 
-
+     
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ogbpo9k1e41m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Finest Hours</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/hA6Q8pXx8KHw1y3ZgcUkNqGceIn.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/a6VvlnIRTJTPUnyf1tIV9kEJO27.jpg</fanart>
@@ -565,120 +460,60 @@
      <fanart>https://image.tmdb.org/t/p/original/pDuD96Fz0ZZXf9buEvRu1UQsmFT.jpg</fanart>
      <genre>Fantasía, Animación, Comedia, Familia, Aventura</genre></item>
 	 
-	 
-	 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8hq5s6c6xx93-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>The Hunger Games: Mockingjay - Part 2</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/ssdllXLqC6sxv5yvduUXxCSCkxn.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg</fanart>
      <genre>Acción, Aventura, Drama</genre></item>
-	 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-082pqy6yy19e-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Revenant: El Renacido</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg</fanart>
      <genre>Western, Drama, Aventura, Suspense</genre></item>
 	 
-	 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nntlihs16y7u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Zootopia</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg</fanart>
      <genre>Animación, Aventura, Familia, Comedia</genre></item>
 
-	 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f5tbld4q856c-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>El Incidente</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/8Uwtb2guVxp5TZsvQFRshCbf7HN.jpg</thumbnail>
      <fanart> </fanart>
      <genre>Ciencia ficción</genre> </item>
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-36rpb19ocllq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>50 Sombras Negras</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/74oqMGvngMj5oX1bclpEwMOIPJV.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/aWN8Z2jpIwe5QwHRl2VBAxc1qYi.jpg</fanart>
      <genre>Romance, Comedia</genre> </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pn1bsyg6iait-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Deadpool</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/kS3pI9nSLZuX8CAzaQOBF6mQ3uX.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
      <genre>Acción, Aventura, Comedia</genre> </item>
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5silt4ghr37g-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Krampus</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/3qtL2DzRwYXzbNjxjavaBr5lurv.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/5GsJuYZuG1bkuSI8FeWol5nvR9S.jpg</fanart>
      <genre>Terror, Comedia, Fantasía</genre> </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-l2p3d4tt1ysj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>my life as a dead girl</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/9YjA333KhRezZKolXNVCOUsNiiS.jpg</thumbnail>
      <fanart> </fanart>
      <genre>Misterio, Crimen, Fantasía</genre> </item>
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nw60qndsydou-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>The 5th Wave</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/wRfFoIrVn9e56qch9L5lQ3Uu625.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/1usA1K56wW97McyXPuUL1OTRDBO.jpg</fanart>
      <genre>Aventura, Ciencia ficción</genre> </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-npyee9dw6qma-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>El bosque siniestro</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/oQ3DpmfMRxpzQSVpKcRtFs55W0B.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/kIg1sA16YQDblcD7w3qn5MBwsul.jpg</fanart>
      <genre>Terror, Suspense</genre> </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zs6ypa592cxz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>El Libro de la Selva</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/zYifdFajjNsn6mNEmwpB5KzBdF5.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg</fanart>
      <genre>Aventura, Drama, Fantasía</genre> </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-a160edy70x22-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           
     <title>Alvin y las Ardillas - The Road Chimp</title>
@@ -686,12 +521,12 @@
      <fanart>https://image.tmdb.org/t/p/original/rM6rTJ2RgMTI9SXdQKVm4rPnzVc.jpg</fanart>
      <genre>Aventura, Animación, Comedia, Familia</genre> </item>
 	 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ipluhzh3m4r3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dirty GrandPa</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/owGsx9UbGM1K7a92Y1CEONZiKA8.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/83oxSw3tESSRy9NbWG2ZF3H1v4v.jpg</fanart>
      <genre>Aventura, Comedia</genre>
  </item>
+ 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8mnxzox6qzdz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>hours the secret soldiers of benghazi</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/3Pq1SIxKgJ2kxOuhwxyf5uv7Tx9.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/hY8myWhjSOUeeiPskhOfwwgaCwc.jpg</fanart>
@@ -706,14 +541,12 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/nK7poFj5zwywfOaWMUkVByvDMMl.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/8zaRahCVUZknvIY0vqbtObVM8SJ.jpg</fanart>
      <genre>Acción, Crimen, Suspense</genre>
- 
      <info>En un mundo gobernado por la injusticia y el caos, aparece la figura del Presidente de los Estados Unidos que junto a su portavoz Trumbull, liderarán una lucha interna por las libertades de todos los americanos. Sin embargo, se producirá un intento de derrocamiento por parte de fuerzas espías para acabar con el Primer Ministro inglés. Esto podría significar el fin de la paz mundial. Para ello el Presidente contará con la inestimable ayuda de su guardaespaldas. Mike Benning, agente secreto del MI6, liderará una operación para intentar acabar con esta revolución. Benning no estará sólo, ya que volverá a encontrar apoyo de Trumbull, especializado en técnicas paramilitares.
  Dirección : Babak Najafi
  Guión : Creighton Rothenberger, Katrin Benedikt, Christian Gudegast
  Año : 2016
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ps2nonmks1y9-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Infiltrados en Miami</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/nenRpeVHOCp0zc7ERW43sZWzlql.jpg</thumbnail>
@@ -742,42 +575,15 @@
 </info>
  </item>
 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rfk8ze77ahhj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Triple 9</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/36zbHT728v00HbbUBmrsOMu7Hde.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/yB5f25CPuTrb6XSbd076kzR9Qz6.jpg</fanart>
      <genre>Crimen, Drama, Suspense</genre> </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rnw4ni5xdslk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Don Gato El Inicio de la Pandilla </title>
   <thumbnail>https://image.tmdb.org/t/p/w500/i4ITCSx3i4WHlTrWY4mzzET9zB9.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/hKcwz8m64E8TLjUjyYFm3yu9Bj2.jpg</fanart>
      <genre>Animación</genre></item>
-
-	 
 	 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pcy63d6xhrtd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Los Hijos del Diablo</title>
   <thumbnail>https://image.tmdb.org/t/p/w500/fTkS0EuaCFefCeP1gBSRHYsaSKY.jpg</thumbnail>
@@ -785,25 +591,16 @@
      <genre>Terror</genre>
 </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bvl9bso9zy36-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Punto de Quiebre </title>
  <thumbnail>https://image.tmdb.org/t/p/w500/tL3O5kjWPl6cfBQ8JAP1au6mMqj.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/x2JJGVftWfx2JGyqW6pqP3JrkO0.jpg</fanart>
      <genre>Crimen, Acción, Suspense</genre>
 </item>
 
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-luq2p9h5uvbl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>La Gran Apuesta </title>
   <thumbnail>https://image.tmdb.org/t/p/w500/korgB5FVdMALHysRY5JjCYpGcX2.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/jmlMLYEsYY1kRc5qHIyTdxCeVmZ.jpg</fanart> 
      <genre>Drama, Comedia</genre></item>
-	 
-	 
-	 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ztcicafpo535-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Alvin y Las Ardillas 4 </title>
 <thumbnail>https://image.tmdb.org/t/p/w500/waP4aEfXFlIUWoImHRnbOOOew4m.jpg</thumbnail>
@@ -825,19 +622,6 @@
      <fanart>https://image.tmdb.org/t/p/original/AsNosq3JX6YfWy7HXmHnJjV7Fsw.jpg</fanart> 
      <genre>Ciencia ficción, Drama, Suspense, Terror</genre></item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yrqo48ejrhqc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Brooklyn </title>
  <thumbnail>https://image.tmdb.org/t/p/w500/tg4cc5pdz9edne6Rlh1vq23s3WJ.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/7fXKVIM8UQBvQ9aQOzFqThlq7eN.jpg</fanart>
@@ -847,8 +631,6 @@
  <thumbnail>https://image.tmdb.org/t/p/w500/pnqdEVXGYVD6TMxEiPVS8aiZPgf.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/vb1eu4JLDAZo0hjx6CoLyQSOmf7.jpg</fanart>
      <genre>Drama</genre></item>
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8zirm1hfy5rm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Los 8 Mas Odiados </title>
   <title></title>
@@ -860,21 +642,6 @@
  <thumbnail>https://image.tmdb.org/t/p/w500/sv4UUyQxP3qCp7kArPhZk1JlAj8.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg</fanart>
      <genre>Aventura, Acción, Drama</genre></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zmit7i7nv7kc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Automata</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/Hq0Z02mcy88AcePmuJqtLLsv7.jpg</thumbnail>
@@ -911,13 +678,6 @@
      <fanart>https://image.tmdb.org/t/p/original/7UWPr9LUq3GizuZDG3e6PvSlvck.jpg</fanart>
      <genre>Acción, Crimen, Drama, Suspense</genre></item>
 
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-7v5mgwvkdw33-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>007 Spectre</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/mSvpKOWbyFtLro9BjfEGqUw5dXE.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wVTYlkKPKrljJfugXN7UlLNjtuJ.jpg</fanart>
@@ -929,7 +689,6 @@
  Año : 2015
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-gczpnft8k78b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Bus 657</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/t5tGykRvvlLBULIPsAJEzGg1ylm.jpg</thumbnail>
@@ -943,8 +702,6 @@
 </info>
  </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5c2wbm52t464-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>El puente de los espías</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/qzEv4nkZdp1nAfril4KR0tDMyro.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/bTgqCfMeBgmkcZr2Zw7xO8WlhzK.jpg</fanart>
@@ -956,7 +713,6 @@
  Año : 2015
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2msnfl2r5xe2-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Ella es Ramona</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/ulPi92RkXYNLQuczyR2PwsdtcI4.jpg</thumbnail>
@@ -970,7 +726,6 @@
 </info>
  </item>
 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-koaosadtf6lk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Pesadillas</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/uzLiKzZWs3UjdYCudK87rPx0llT.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/itouI22hCgvU4psqC9DuwAOYuL2.jpg</fanart>
@@ -982,7 +737,6 @@
  Año : 2015
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-cslcshgs2aw7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Jem y los hologramas</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/4kIgibYX725i3MVoqqdNCjEqR2G.jpg</thumbnail>
@@ -1073,27 +827,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-9om369aakxov-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Atrapa la Bandera</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/vzzTy3ctiptqaV3S9tIewjKJ1nf.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg</fanart>
@@ -1105,9 +838,6 @@
  Año : 2015
 </info>
  </item>
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0qt9q9ht0kpv-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Creed. La leyenda de Rocky</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/xSE4NBFDzqedwa4AIj99r1Z7ljF.jpg</thumbnail>
@@ -1121,9 +851,6 @@
 </info>
  </item>
 
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rjhhwewllqii-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Spotlight</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/mYle76KdC8vaMJz6r73S0nKmnk2.jpg</fanart>
@@ -1135,7 +862,6 @@
  Año : 2015
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wtyj38pdfadr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Predestination</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/kDdUtDsGMQ3OYwoBtEQyJIGPz4V.jpg</thumbnail>
@@ -1190,17 +916,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pf21gxtu9kwe-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Einstein and Eddington</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/4sAaQaX2JwBJ0OgVTuBk5vxbuRT.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/velM4GkSJQZVsZy6fI0NaWrWSLh.jpg</fanart>
@@ -1253,13 +968,7 @@
  Año : 2015
 </info>
  </item>
-
-
-
-
-
-
-
+ 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mvfzb8ghqnkx-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Star Wars: Episodio VII - El Despertar de la Fuerza (VERSION CAM)</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/fqos3bbu4io2sQvERcW8rzGJwq2.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg</fanart>
@@ -1272,12 +981,6 @@
 </info>
  </item>
 
-
-
-
- 
- 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4ze4q1zilpp7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Saga Divergente: Insurgente</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/wrrmR73VzSPkxD60wcsVoYHqUqy.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/L5QRL1O3fGs2hH1LbtYyVl8Tce.jpg</fanart>
@@ -1289,8 +992,6 @@
  Año : 2015
 </info>
  </item>
-
- 
  
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ruj831i62an4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>Survivor</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/XtvR1aSph7X3wqrE2PY66IPzVi.jpg</thumbnail>
@@ -1304,15 +1005,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4hpzrh82ubbk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Los mercenarios 2</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/ujqpSA0qOzab17zbPfFvszkSAQr.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/xCfHomVxzeAmbZlbiZbpp2igIsl.jpg</fanart>
@@ -1324,7 +1016,6 @@
  Año : 2012
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-odrkistic7lz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Los mercenarios 3</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/vmMwwHA1pbVjSfRwlg2XpNonNRq.jpg</thumbnail>
@@ -1338,23 +1029,16 @@
 </info>
  </item>
 
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nravtqvv29am-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Novatos</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/mqBtZpIiOn2rJOycQk5onwPPdow.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/bokkbnvLLYsut9pVlnKeZavGinJ.jpg</fanart>
      <genre>Drama</genre>
-
      <info>Novatos es una película que aborda el tema de las novatadas en los Colegios Mayores de las universidades españolas desde un punto de vista realista y serio.  Se quiere mostrar el problema de la existencia de un secreto a voces y el total desconocimiento que existe en la sociedad española
  Dirección : Pablo Aragüés
  Guión : Pablo Aragüés
  Año : 2015
 </info>
  </item>
-
-
-  
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zsa68o3t5tir-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Resident Evil 2: Apocalipsis</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/cPT75HUyf7ZHcKp6mBYqr3kaArL.jpg</thumbnail>
@@ -1381,21 +1065,6 @@
  Año : 2008
 </info>
  </item>
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bcdy5cy4tt91-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Ask Me Anything</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/88WgsVRMaabUhqx3U3BZIZQyWki.jpg</thumbnail>
@@ -1448,16 +1117,9 @@
 </info>
  </item>
 
-
-
-
- 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nxyfz17dl4lo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Fotografía de un asesinato</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/hNa0ZoTtDC6bXrJfOy1fJDwzTWw.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dSZTp6hO9LlmADaFhe2uJA0QBk0.jpg</fanart>
-     
  
      <info>Jodi, es  una joven de 18 años que ha sufrido un ataque traumático en su casa. Se muda junto a su madre a una nueva zona residencial para ayudar a su recuperación.
  Dirección : Doug Campbell
@@ -1465,15 +1127,7 @@
  Año : 2015
 </info>
  </item>
-
-
-
-
-
-
-
-
-
+ 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-64bfldjdfuir-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Viaje a Sils Maria</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/nECV4RGVWkagJsQA4HWqmN4Ltju.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/m5Uw8NYatJvCSMw5hwuZdbHpS3J.jpg</fanart>
@@ -1499,9 +1153,6 @@
 </info>
  </item>
 
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bakmvl6yq7iy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Hotel Transilvania 2</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/oTbKPPmb7qb6kOIO4I13LLZ9r5A.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
@@ -1513,10 +1164,6 @@
  Año : 2015
 </info>
  </item>
-
-
- 
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-o2no9cnmew51-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Pequeño ayudante de Santa Claus</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/gsJU1uwqMB3jCWx7260WTYtSp5k.jpg</thumbnail>
@@ -1530,24 +1177,6 @@
 </info>
  </item>
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-y6tcgr72eg91-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>La curva de la muerte</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/7ylei4CzaA8XFTir1ocWxVzHWTQ.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/9GlhSzEogubsUfsToqpLmogiBJU.jpg</fanart>
@@ -1559,7 +1188,6 @@
  Año : 2015
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-owblz7ggm1gw-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Dead Rising: Watchtower</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/ysTty2OpMud8RTda60yvf6AhFuj.jpg</thumbnail>
@@ -1573,8 +1201,6 @@
 </info>
  </item>
 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-c3sxieq2w1b4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>ghost of goodnight Lane</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/44T9uPS7awyVXm3HTb1hyaMNrBD.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/aG8b0Ghf28CCPbjX7SAgvozHfns.jpg</fanart>
@@ -1586,7 +1212,6 @@
  Año : Tran
 </info>
  </item>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1j6r2zlcqvn3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Road Wars</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/n0gbMzfMSWRg9Mja8J3XAxc1vUC.jpg</thumbnail>
@@ -1600,10 +1225,6 @@
 </info>
  </item>
 
- 
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-na05n0n8e9us-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Los últimos días en Marte</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/cyrXI2U7hOpiAhUADvIldRqSaZl.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/eerkyCF9nRXQK8tkwbuHAT0vDI7.jpg</fanart>
@@ -1616,25 +1237,16 @@
 </info>
  </item>
 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-r2akjbbx8ou5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Un día perfecto</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/87nBmQAI0vm7m9d9Zyjy4a2nSeB.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/uUKaaTUAsQKQAQM6Nmt7ujKNbns.jpg</fanart>
      <genre>Drama</genre>
- 
      <info>Sophie (Mélanie Thierry) quiere ayudar a la gente, Mambrú (Benicio del Toro) quiere volver a casa, Katya (Olga Kurylenko) quiso una vez a Mambrú. Damir (Fedja Stukan) quiere que la guerra termine, Nikola (Eldar Residovic) quiere una pelota, B (Tim Robbins) no sabe lo que quiere. Pero lo que quieres pocas veces coincide con lo que necesitas. Un grupo de cooperantes que trata de sacar un cadáver de un pozo en una zona de conflicto. Alguien lo ha tirado dentro para corromper el agua y dejar sin abastecimiento a las poblaciones cercanas. Pero la tarea más simple se convierte aquí en una misión imposible, en la que el verdadero enemigo quizá sea la irracionalidad. Los cooperantes recorren el delirante paisaje bélico tratando de resolver la situación, como cobayas en un laberinto.
  Dirección : Fernando León de Aranoa
  Guión : Fernando León de Aranoa
  Año : 2015
 </info>
  </item>
-
-
- 
-
-
-
- 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f2apn4fshoku-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Emboscada</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/v1zSNukbdPJnjjananNSAPAxrAl.jpg</thumbnail>
@@ -1787,10 +1399,6 @@
 </info>
  </item>
 
- 
-
- 
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-13skmy7y5kcf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Iron Man 2</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/zJ2eK7fehqFSQ2w5JlQIF0OJP9q.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/jxdSxqAFrdioKgXwgTs5Qfbazjq.jpg</fanart>
@@ -1802,10 +1410,6 @@
  Año : 2010
 </info>
  </item>
-
-
-
- 
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-e8aq1yxrhghm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                  <title>Adultos a la fuerza</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/4StONAgxFEMCTTW6IsdkqLeo3RN.jpg</thumbnail>
@@ -1930,17 +1534,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yjvwt5ycqu2w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Los 6 Ridiculos</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/k77xcsBtZMq9zIlTVQV7UBemzXD.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/jrEbYGtEEv981chqVvYyIU9ni6K.jpg</fanart>
@@ -1952,8 +1545,6 @@
  Año : 2015
 </info>
  </item>
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-du9xv3o9fudn-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Hotel Transilvania 2 - Subtitulada</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/oTbKPPmb7qb6kOIO4I13LLZ9r5A.jpg</thumbnail>
@@ -2089,21 +1680,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-m959nzwneduy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Los 6 Ridiculos</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/k77xcsBtZMq9zIlTVQV7UBemzXD.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/jrEbYGtEEv981chqVvYyIU9ni6K.jpg</fanart>
@@ -2116,17 +1692,6 @@
 </info>
  </item>
 
-
-
-
-
-
-
-
- 
- 
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-87ve0lvs3x1m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>La guerra de las galaxias. Episodio III: La venganza de los Sith</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/gEZyq29omWjph17BDLNdOCdU6DY.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg</fanart>
@@ -2138,10 +1703,6 @@
  Año : 2005
 </info>
  </item>
-
-
-
-  
  
   <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bh26lwoxt9xe-740x360.html</page>	 <referer>http://streamin.to</referer></regex> <title>Episodio V: El imperio contraataca </title>
     <thumbnail>https://image.tmdb.org/t/p/w500/sRDFFD4cbGypTOM5Yt5SDj6IaKM.jpg</thumbnail>
@@ -2170,22 +1731,6 @@
 </info>
  </item>
  
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-33dnwqiuy5hd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>El Principito</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/eDPVn6f1KlI2XgASAmqSjlHPdjK.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/yXK2LkCRv7wcMqIfKwr1UpSMdmq.jpg</fanart>
@@ -2263,30 +1808,6 @@
  Año : 2015
 </info>
  </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0fpravsqup2z-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Archivo 253</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/YBXCeLm00TQ3PawGflZyzkeC7X.jpg</thumbnail>
@@ -2499,5 +2020,3 @@
  Año : 2011
 </info>
  </item>
-
-
