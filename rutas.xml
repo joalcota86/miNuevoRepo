@@ -62,48 +62,52 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<!--<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/audio-latino.xml</externallink>-->
-<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/peliculas.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Musica[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue][B]  Música[/B][/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/musi.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<!--<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/audio-latino.xml</externallink>
+<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/peliculas.xml</externallink>-->
+</item>
+
+
 
 </items>
 
 
 <stream>
 
-<item>
+<!--<item>
 <title>[COLOR yellow][B][I] El Conjuro 2 [/I][/B][/COLOR]</title>
 <link>http://streamin.to/embed-4piveve0e5mq-740x360.html</link>
 <thumbnail>https://1.bp.blogspot.com/-hocYTtOYNok/Vw_fknzhjlI/AAAAAAAAj-Y/WU8EGFhVj2Ez2bXexfwnwR69g1PduYYewCLcB/s640/el-conjuro-2.png</thumbnail>
-</item>
+</item>-->
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a Trav�s del Espejo - TS Latino</title>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 
+<referer>http://streamin.to</referer></regex>      [COLOR blue]   <title>Alicia a Través del Espejo - TS Latino</title>[/COLOR]
     <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
      <genre>Aventura, Familia, Fantasía</genre>     </item>
      
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	
+<referer>http://streamin.to</referer></regex>[COLOR blue] <title>El Conjuro 2 2016 tshq latino </title>  [/COLOR]   <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>   </item>
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a Trav�s del Espejo - TS Latino</title>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   [COLOR blue] <title>Alicia a Través del Espejo - TS Latino</title>[/COLOR]
     <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
      <genre>Aventura, Familia, Fantas�a</genre>     </item>
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3ds3at2leg5b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 CAM Latino</title>    <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3ds3at2leg5b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  [COLOR blue]<title>El Conjuro 2 2016 CAM Latino</title>  [/COLOR]  <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>    </item>
 
-<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1f9jnz42iogo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>La Bruja -WEBScreen Latino</title>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1f9jnz42iogo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  [COLOR blue] <title>La Bruja -WEBScreen Latino</title>[/COLOR]
     <thumbnail>https://image.tmdb.org/t/p/w500/hJPltoCoMP6X4QC8HtDm3XpUbP3.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/k06hljqysdm9cvHGZk6Meiv81e6.jpg</fanart>
      <genre>Misterio, Terror</genre>    </item>
