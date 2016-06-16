@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ESPN HD
+#EXTINF:-1, ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TYC SPORTS
+#EXTINF:-1, TYC SPORTS
 http://usa.fankytv.com/live/tyc.stream/playlist.m3u8
-#EXTINF:-1 FOX SPORT 2
+#EXTINF:-1, FOX SPORT 2
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 FOX SPORT 1
+#EXTINF:-1, FOX SPORT 1
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ESPN2
+#EXTINF:0, ESPN2
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ESPN 3
+#EXTINF:0, ESPN 3
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
