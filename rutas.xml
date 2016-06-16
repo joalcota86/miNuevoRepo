@@ -16,7 +16,7 @@
 					
 					a la cuenta joalcota86@gmail.com
 					
-
+-->
 
 
 <items>
@@ -75,7 +75,7 @@
 </item>
 
 </items>
--->
+
 
 <stream>
 
@@ -85,6 +85,11 @@
 <thumbnail>https://1.bp.blogspot.com/-hocYTtOYNok/Vw_fknzhjlI/AAAAAAAAj-Y/WU8EGFhVj2Ez2bXexfwnwR69g1PduYYewCLcB/s640/el-conjuro-2.png</thumbnail>
 </item>
 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a Trav�s del Espejo - TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
+     <genre>Aventura, Familia, Fantasía</genre>     </item>
+     
 <item>
 <title>Name of News channel 2</title>
 <link>http://sample_link_to_news_channel.m3u8</link>
