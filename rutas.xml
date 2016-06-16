@@ -19,53 +19,6 @@
 -->
 
 <stream>
-<items>
-<items_info> <!-- this is opitonal -->
-      <title>Lista de Películas</title> 
-      <genre>Tv Live</genre>
-      <description>: Lista de Canales para el Livestreamspro :</description>
-      <thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail>
-      <fanart>http://adryanlist.org/fanart.jpg</fanart>
-      <date>16.06.2016</date>
-      <cwhiteits> - Jor-El -  </cwhiteits>
-    </items_info>
-	<!--http://i.imgur.com/  .png-->
-
-<item>
-<title>              [COLOR skyblue][B]    J O R - E l  |  [/COLOR][COLOR deepskyblue]|  L I S T[/B][/COLOR]   </title>
-<link>http://adryanlist.org/adryan/liist.xml</link>
-<externallink>http://adrian.kodistream.info/list.xml</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-</item>
-<item>
-<title>            [COLOR lightslategray]update: [COLOR lightblue]15[/COLOR] • Junio • 2016[/COLOR]      </title>
-<link>http://adryanlist.org/adryan/liist.xml</link><thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]EURO2016[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/euro.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/euro.xml</externallink>
-</item>
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]COPA AMERICA[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/liguilla.xml</externallink>
-</item>
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR lightyellow]  [B]COPA AMERICA[/B] [/COLOR] [COLOR skyblue]#TVOnline2016[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamerica.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>https://dl.dropboxusercontent.com/s/96crm0q54ok6a1d/menu.txt</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue][B]  Música[/B][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/musi.xml</externallink>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
@@ -73,11 +26,6 @@
 <externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/audio-latino.xml</externallink>
 <!--<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/peliculas.xml</externallink>-->
 </item>
-
-
-
-</items>
-
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 
 <referer>http://streamin.to</referer></regex>      [COLOR blue]   <title>Alicia a Través del Espejo - TS Latino</title>[/COLOR]
