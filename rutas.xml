@@ -1,581 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!----------------------
+					BIENVENIDO  A Geortronics Corp.
+					
+					www.facebook.com/joalcota
+					
+					LISTA DE CANALES PARA KODI
+					
+					1.- Instalar el Addon ListMovies 
+						Descargar: www.facebook.com/joalcota
+					2.- Disfrutar ! 
+					
+					PARA QUE LA LISTA SIGA ACTIVA , APOYAME INVITANDOME UN CAFE 
+					
+					A TRAVES DE UNA DONACION POR PAYPAL
+					
+					a la cuenta joalcota86@gmail.com
+					
+-->
 
-	<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
-<view>movies</view>
-<fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+<items_info> <!-- this is opitonal -->
+      <title>Lista de Películas</title> 
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail>
+      <fanart>http://adryanlist.org/fanart.jpg</fanart>
+      <date>16.06.2016</date>
+      <cwhiteits>Jor-El</cwhiteits>
+    </items_info>
+	<!--http://i.imgur.com/  .png-->
 
 <item>
-<title>[COLOR red][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>              [COLOR skyblue][B]    J O R - E l [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]   </title>
+<link>http://adryanlist.org/adryan/liist.xml</link>
+<externallink>http://adrian.kodistream.info/list.xml</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 </item>
-
 <item>
-<title>[COLOR skyblue][B]Estrenos [/B][/COLOR] [COLOR deepskyblue]Audio Original [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/estrenos.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR lightslategray]Donaciones al [COLOR lightslategray]PayPal:[/COLOR] [COLOR lightblue]adrian.bu@gmail.com[/COLOR][/COLOR]</title>
+<link>http://adryanlist.org/adryan/in.xml</link><thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 </item>
-
-
-
-
-
-<!--
 <item>
-<title>[COLOR skyblue][B]ALOFLIX[/B][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://dl.dropboxusercontent.com/s/ukw944z5k82jdk0/AloFlix.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
-<info></info>
-</item>
--->
-
-
-
-
-<item>
-<title>[COLOR skyblue][B]Peliculas Infantiles[/B][/COLOR] [COLOR deepskyblue]Audio Latino[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-
-<!--
-<item>
-<title>[COLOR skyblue][B]Peliculas [/B][/COLOR] [COLOR coral][B]2011-2015[/B] [/COLOR][COLOR deepskyblue](Audio Original) [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/my.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
--->
-
-
-<!--
-
-<item>
-<title>[COLOR cyan]•[/COLOR][COLOR yellow]  ** S T A R  [/COLOR] [COLOR gold] W A R S  ** [/COLOR] [COLOR gray][seccion especial SAGA COMPLETA][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/starwars.xml</externallink>
+<title>            [COLOR lightslategray]update: [COLOR lightblue]15[/COLOR] • Junio • 2016[/COLOR]      </title>
+<link>http://adryanlist.org/adryan/liist.xml</link><thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 </item>
 
 
 
-<item>
-<title>[COLOR orange][B]MOVIE[COLOR green]MEX[/COLOR][/B][/COLOR] [COLOR lightblue][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/streamex.xml</externallink>
-<fanart>https://pbs.twimg.com/media/CTQTVZEVEAAcZxV.jpg:large</fanart>
-<thumbnail>https://pbs.twimg.com/media/CTQTVZEVEAAcZxV.jpg:large</thumbnail>
-<info></info>
-</item>
--->
+
+
+
+
+
+
+
+
+
+
 
 
 
 <tem>
-<title>[COLOR skyblue][B]Conciertos de Musica[/B][/COLOR] [COLOR lightslategray]   [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/concerts.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Apple Keynote WWDC 2016 [/B][/COLOR] [COLOR lightslategray]Lunes 13 Junio [I]19:00hrs España • 12:00hrs Mexico[/I] [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://adryanlist.org/adryan/applekeynote.xml</externallink>
+<fanart>http://cdn2.ticbeat.com/src/uploads/2016/06/Keynote-apple-2016-online-wwdc16-810x456.jpg</fanart>
+<thumbnail>http://cdn2.ticbeat.com/src/uploads/2016/06/Keynote-apple-2016-online-wwdc16-810x456.jpg</thumbnail>
 </item>
+
+
+<-
+<tem>
+<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]GameofThrones [/B][/COLOR] [COLOR lightslategray] Capitulo 9: La Batalla de los Bastardos[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://orig09.deviantart.net/88ce/f/2013/081/7/a/game_of_thrones___poster_by_kc_eazyworld-d5yunum.jpg</thumbnail>
+<externallink>http://adryanlist.org/adryan/evento.xml</externallink>
+</item>
+-->
+
+
 <item>
-<title>[COLOR skyblue][B]MoviePack I[/B][/COLOR] [COLOR lightslategray] [I]+2000[/I]   [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/moviepack.m3u</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray](Sports) [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR skyblue][B]MoviePack II[/B][/COLOR] [COLOR lightslategray] +6400   [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculas.m3u</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]EURO2016[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/euro.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/euro.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]COPA AMERICA[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/liguilla.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lightyellow]  [B]COPA AMERICA[/B] [/COLOR] [COLOR skyblue]#TVOnline2016[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamerica.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>https://dl.dropboxusercontent.com/s/96crm0q54ok6a1d/menu.txt</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]ExtraTime[/COLOR][/B] [COLOR lightslategray][I]  Eventos del dia[/I][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR skyblue][B]MoviePack III[/B][/COLOR] [COLOR lightslategray] +220   [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/asia.m3u</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
 </item>
 
- <item>
-<title>[COLOR skyblue][B]MoviePack TP[/B][/COLOR] [COLOR lightslategray] +184  [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculastp.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
- 
- <item>
-<title>[COLOR skyblue][B]MoviePack VIP[/B][/COLOR] [COLOR lightslategray]  VO  [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/moviepackvip.xml</externallink>
-</item>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]HDFull.TV[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-<externallink>http://adryanlist.org/adryan/hdfull.xml</externallink>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
 </item>
- 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]NewPct1[/B] [/COLOR][COLOR skyblue]Castellano[/COLOR] </title>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/esp.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/mx.xml</externallink>
+</item>
+
+
+
+<!--
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV[B]Canales[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[id]</link>
-
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-$doregex[link]-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-
-<regex>
-<name>link</name>
-<expres>http://streamin.to/(.*?)'</expres>
-<page>http://www.newpct1.com/ver-online/pelicula/[makelist.param1]/</page>
-<referer>http://streamin.to</referer>
-</regex>
-
+<item>
+<title>[COLOR white][/COLOR][COLOR lime][makelist.param1][/COLOR]</title>
+<link>http://iptvcanales.com/xw/canales/canal1.m3u8?canal=[makelist.param2]&amp;profile=3|Referer=http://iptvcanales.com/hls/grindplayer/flashlsOSMF.swf</link>
 <thumbnail>[makelist.param3]</thumbnail>
-<fanart>[makelist.param3]</fanart>
-
+</item>
 ]]></listrepeat>
-
-<expres>pelicula/(.*?)/"[\w\W\s]{0,9}Descargar (.*?) gratis[\w\W\s]{0,10}src="(.*?)"</expres>
-<page>http://www.newpct1.com/peliculas/</page>
+<expres>canal=(.*?)&[\w\W\s]{0,4}n_canal=(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+<page>http://iptvcanales.com</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 
- 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
-<page>http://gnula.nu/peliculas-online/lista-de-peliculas-online-parte-1/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
- 
- 
- 
- 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
-<link>$doregex[makelist3]</link>
-
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-   <title>[makelist3.param1]</title>
-    <link>$doregex[makelist2]</link>
-    
-]]></listrepeat>
-<expres>strong>(.*?)<[\w\W\s]{0,13}href="(.*?)"</expres>
-<page>http://gnula.nu/generos/lista-de-generos/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
-<page>[makelist3.param2]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
-
- 
- 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Yaske[/B] [/COLOR][COLOR skyblue][I] Recientes[/I][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/yaske.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
- 
- 
-  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PeliculasAudioLatino[/B] [/COLOR][COLOR skyblue][I] Recientes[/I][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/audiolatino.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
- 
-  
-
-
- 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]inkaPelis[/B] [/COLOR][COLOR skyblue] Estrenos | Generos[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/inka.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PelisRey[/B] [/COLOR][COLOR skyblue]Latino[/COLOR] fase de Prueba</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[id]</link>
-
-<regex>
-<name>id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://www.spruto.tv/$doregex[link]</page>
-<referer>http://www.spruto.tv</referer>
-<agent>iPhone</agent>
-</regex>
-
-<regex>
-<name>link</name>
-<expres>http://www.spruto.tv/(.*?)"</expres>
-<page>[makelist.param4]</page>
-<referer>http://www.spruto.tv</referer>
-<agent>iPhone</agent>
-</regex>
-
-<thumbnail>[makelist.param1]</thumbnail>
-<fanart>[makelist.param1]</fanart>
-
-]]></listrepeat>
-
-<expres>class="poster"[\w\W\s]{0,8}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,32}href="(.*?)"</expres>
-<page>http://www.peliculasrey.com/idioma/latino/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Cantinflas[/B] [/COLOR][COLOR skyblue]Peliculas[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param2]</title>
-    <utube>[makelist.param1]</utube>
-]]></listrepeat>
-<expres>\sid="(.*?)"[\w\W]*?\t{4}(.*?)\t{3}</expres>
-<page>http://app1.vuelo-digital.org/cantinfla.php</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
- <item>
-<title>           [COLOR yellow]== [COLOR orange][B]Quasar Requerido[/B][/COLOR] ==[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]DivxaTope[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
-<link>$doregex[makelist]</link> 
-<thumbnail>http://www.divxatope.com/newtemp/template/images/logo.png</thumbnail>       <!--thumb del sitio  web-->
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param2]  ( [makelist.param3])</title>
-    
-    <link>plugin://plugin.video.quasar/play?uri=$doregex[link-torrent]</link>
-  <regex>
-    <name>link-torrent</name>
-    <expres>br\s\/&gt;\n.*?&lt;a\shref="(http.*?)"</expres>
-    <page>http://www.divxatope.com/descarga-torrent/[makelist.param1]</page>
-    <referer>http://www.divxatope.com/categoria/peliculas</referer>
-    </regex>
-    
-    <referer>http://www.divxatope.com/categoria/peliculas</referer>
-    <thumbnail>http://www.divxatope.com/uploads/images/fichas/f/[makelist.param4]</thumbnail>          
-]]></listrepeat>
-<expres>a\shref="http:\/\/www.divxatope.com\/descargar\/(.*?)"\stitle=.*?escargar(.*?)\sen\s(.*?lu.*?ay.*?)gratis".*?\/thumbs\/(.*?)"</expres>
-<page>http://www.divxatope.com/categoria/peliculas</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PelisMag[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/pelismag.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
- 
-  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ZPeliculas[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/zpeliculas.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
- 
- 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]EliteTorrent[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/elite.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
-
-
-
-
-<!--
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]CineTux.COM[/B] [/COLOR][COLOR skyblue][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/cinetux.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Youtube[/B] [/COLOR][COLOR skyblue]Peliculas[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param2]</title>
-    <utube>[makelist.param1]</utube>
-]]></listrepeat>
-<expres>\sid="(.*?)"[\w\W]*?\t{4}(.*?)\t{3}</expres>
-<page>http://app1.vuelo-digital.org/multipremier.php</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
 -->
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR lightslategray] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/t.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/ent.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
+<!--  <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+			<title>[makelist.param2]</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_[makelist.param1] live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_[makelist.param1]$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>-->
+<thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg/fanart>
+<link>http://ignorame</link>
+<externallink>http://adryanlist.org/adryan/p247.xml</externallink>
+
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Musica[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/musi.xml</externallink>
+</item>
 <!--
-<item>
-<title>[COLOR red][B]YOUTUBE[/B][/COLOR] [COLOR lightblue][][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/youtubemovies.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-
 
 <item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [COLOR lightblue][AlienMovies][V.O. Subtituladas][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/pelialien.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR skyblue][B]Solo Estrenos [/B][/COLOR][COLOR yellow]HD[/COLOR] [COLOR lightblue][JessMax][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculas.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
--->
-<!--
-<item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Castellano]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculaspa.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]Recien Actualizadas[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_actuales.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-<item>
-<title>[COLOR white][B]Mas Vistas[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/movies_populares.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-<item>
-<title>[COLOR white][B]INFANTILES[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_infantiles.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-<item>
-<title>Mexicanas [Audio Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_mex.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>Ultimas Agregadas [Audio Español & Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/ultimas.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/film_strip-512.png</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>Audio Castellano</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/p_esp.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>[COLOR red]•[/COLOR][COLOR gray]  Stalker   [/COLOR][COLOR gray][Offline][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/nescafe.xml</externallink>
 </item>
 
 
@@ -583,264 +251,44 @@
 
 
 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Kickass Torrents[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
-<link>$doregex[showPages]</link> 
-<thumbnail> </thumbnail>  
-
-<regex>
-<name>showPages</name>
-<listrepeat><![CDATA[
-   <title>[COLOR skyblue]Pagina# [showPages.param1][/COLOR]</title>
-    <link>$doregex[makelist]</link>
-       
-]]></listrepeat>
-<expres>([0-9]+),?</expres>
-<page>$doregex[getPageNumbers]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>getPageNumbers</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  frompage,topage=re.findall( "results ([0-9]+)-([0-9]+)",page_data)[0]
-  frompage=int(frompage)
-  topage=int(topage)
-  print range(frompage,topage)
-  return range(frompage,topage)
-]]></expres>
-<page>https://kat.cr/usearch/castellano%20category%3Amovies/1/?field=time_add&amp;sorder=desc</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://kat.cr/movies/</referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:[makelist.param1]</link>
-
-</regex>
-]]></listrepeat>
-<expres>href="magnet:(.*?)"[\w\W]*?class="cellMainLink">(.*?)<</expres>
-<page>https://kat.cr/usearch/castellano%20category%3Amovies/[showPages.param1]/?field=time_add&sorder=desc</page>	
-<referer>https://kat.cr/usearch/castellano%20category%3Amovies/[showPages.param1]/?field=time_add&sorder=desc</referer>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/paises.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/paises.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internacionales[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/inter.xml</externallink>
 </item>
 
 
-
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]KickAss Torrents[/B] [/COLOR][COLOR skyblue] Latinos[/COLOR] [COLOR lightslategray] Recientes [/COLOR] </title>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:[makelist.param1]</link>
-
-</regex>
-]]></listrepeat>
-<expres>href="magnet:(.*?)"[\w\W]*?class="cellMainLink">(.*?)<</expres>
-<page>https://kat.cr/usearch/latino%20category:movies/</page>	
-<referer>http://kat.cr/</referer>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mas Listas[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/listas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/lists.xml</externallink>
 </item>
 
+<!--
 
-
-
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]O Torrents [/B] [/COLOR][COLOR skyblue] VO[/COLOR] </title>
+<item>
+<title>[COLOR gray]•[/COLOR][COLOR silver]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue] [Cerrado - OFFLINE][/COLOR]  </title>
 <link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/otorrents.xml</externallink>
+<externallink>http://adryanlist.org/</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>http://adryanlist.org/adryan/img/aloflix.jpg</thumbnail>
 <info></info>
 </item>
+-->
 
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ShAaNiG Torrents [/B] [/COLOR][COLOR skyblue] VO[/COLOR] </title>
-<link>$doregex[makelist3]</link> 
-<thumbnail> </thumbnail>  
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-   <title>[makelist3.param2]</title>
-    <link>$doregex[makelist2]</link>
-       
-]]></listrepeat>
-<expres>forumtitle[\w\W\s]{0,6}href="(.*?)">(.*?)<</expres>
-<page>http://www.shaanig.org/f4/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]</title>
-    <link>$doregex[makelist]</link>
-
-       
-]]></listrepeat>
-<expres>class="title" href="http://www.shaanig.org/(.*?)"[\w\W\s]{0,30}">(.*?)ShAaNiG</expres>
-<page>[makelist3.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-    
-    <link>plugin://plugin.video.quasar/play?uri=[makelist.param1]</link>
- <thumbnail>[makelist.param2]</thumbnail>         
-]]></listrepeat>
-<expres>href="(.*?.torrent)">(.*?)torrent</expres>
-<page>http://www.shaanig.org/[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Torrent RARBG [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/rarbg.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
+<title>DMCA: This site only contains links and embeds to TV channels from 3rd party sites Which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.</title>
+<link>http://adryanlist.org/adryan/in.xml</link><thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 </item>
 
+--> 
 
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Torrent KickASS [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray]Most Popular[/COLOR] </title>
-<link>$doregex[showPages]</link> 
-<thumbnail> </thumbnail>  
-
-<regex>
-<name>showPages</name>
-<listrepeat><![CDATA[
-   <title>[COLOR skyblue]Pagina# [showPages.param1][/COLOR]</title>
-    <link>$doregex[makelist]</link>
-       
-]]></listrepeat>
-<expres>([0-9]+),?</expres>
-<page>$doregex[getPageNumbers]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>getPageNumbers</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  frompage,topage=re.findall( "results ([0-9]+)-([0-9]+)",page_data)[0]
-  frompage=int(frompage)
-  topage=int(topage)
-  print range(frompage,topage)
-  return range(frompage,topage)
-]]></expres>
-<page>http://kat.cr/movies/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://kat.cr/movies/</referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:[makelist.param1]</link>
-
-</regex>
-]]></listrepeat>
-<expres>href="magnet:(.*?)"[\w\W]*?class="cellMainLink">(.*?)<</expres>
-<page>http://kat.cr/movies/[showPages.param1]/</page>	
-<referer>http://kat.cr/movies/[showPages.param1]/</referer>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
-</item>
-<item>
-<title>French Movies</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR white]  [makelist.param1] [/COLOR]</title>
-        <link>$doregex[getvid]</link>		
-        <thumbnail>[makelist.param4]</thumbnail>
-		<info>[makelist.param2]</info>
-]]></listrepeat>
-  <expres><![CDATA[(?s)data-title="(.*?)" data-ozet="<p>(.*?)<\/p>.*?<a href="(.*?)".*?<img src="([^"]+)" class="film-list]]></expres>
-  <page>$doregex[get-decode]</page>
-<referer></referer>
-</regex>
-<regex>                                                   
-<name>get-decode</name>                                            
-<expres><![CDATA[#$pyFunction
-import re
-import HTMLParser
-import sys
-reload(sys)
-sys.setdefaultencoding("utf-8")
-def GetLSProData(page_data,Cookie_Jar,m):
-
-	parser = HTMLParser.HTMLParser()
-	return re.sub("(&.+?;)", lambda m: parser.unescape(m.group()), page_data)
-		
-		
-]]></expres>
-<page>http://frenchstream.tv/films/page/2</page>
-<referer></referer>
-</regex>
-
-<regex>
-<name>getvid</name>
-<expres>$pyFunction:'$doregex[get-video]'.replace('\u0026','&')</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-video</name>
-<expres>low".+?"url":"([^"]+)</expres>
-<page>http://ok.ru/dk?cmd=videoPlayerMetadata&amp;mid=$doregex[get-okru]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-<referer>http://ok.ru/videoembed/$doregex[get-okru]</referer>
-<x-req>XMLHttpRequest</x-req>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-okru</name>
-<expres>getirframe[\D]'([^"]+)',[\d\D]*?Ok.ru</expres>
-<page>[makelist.param3]</page>          
-<referer>http://frenchstream.tv</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-</item>
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]kosmikaPlaylist [/B] [/COLOR][COLOR skyblue] [/COLOR] [COLOR lightslategray][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/kosmiko.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>
+</items>
