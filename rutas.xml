@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
-    <channels_info> <!-- this is optional -->
-      <title>TITULO DE LA LISTA</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Varior GENEROS</genre>
-      <description>Lista de películas agregadas por Jor-El</description>
-      <thumbnail>http://4.bp.blogspot.com/_y1w5uc7K-b4/TFdNml4MLaI/AAAAAAAAF3w/vdKP_V7B_ms/s1600/Peliculas2-TuneaTaringa.blogspot.com-Barras%20Separadoras.png</thumbnail>
-      <fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart>
-      <date>AÑO</date>
-      <credits>Hecho por Jor-El</credits>
-    </channels_info>
-	 
-    <channel>
-    	<name>NOMBRE CATEGORÍA</name>
-    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
-    <thumbnail>http://cdn2.hubspot.net/hub/358248/file-2539707459-png/50-peliculas-para-geeks.png</thumbnail>
-    <fanart>http://static.batanga.com/sites/default/files/styles/full/public/tech.batanga.com/files/Sitios-legales-para-ver-pel%C3%ADculas-Online-1.jpg?itok=XR_3YEtf</fanart>
-    
+
+	<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<items>
+<view>movies</view>
+<fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>   </item>
@@ -2038,6 +2027,3 @@
  Año : 2011
 </info>
  </item>
-	</channel>
-
-	</channels>
