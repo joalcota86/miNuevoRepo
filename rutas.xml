@@ -1,46 +1,25 @@
  <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-
     <channels>
     <channels_info> <!-- this is optional -->
-      <title>TITULO DE LA LISTA</title> <!-- if channels_info, a title is 
-
-required, other elements are optional -->
-      <genre>Varior GENEROS</genre>
+      <title>Películas en Aduio Latino</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Varior géneros</genre>
       <description>Lista de películas agregadas por Jor-El</description>
-      <thumbnail>http://4.bp.blogspot.com/_y1w5uc7K-
-
-b4/TFdNml4MLaI/AAAAAAAAF3w/vdKP_V7B_ms/s1600/Peliculas2-
-
-TuneaTaringa.blogspot.com-Barras%20Separadoras.png</thumbnail>
-      
-
-<fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart>
-      <date>AÑO</date>
+      <thumbnail>http://4.bp.blogspot.com/_y1w5uc7K-b4/TFdNml4MLaI/AAAAAAAAF3w/vdKP_V7B_ms/s1600/Peliculas2-TuneaTaringa.blogspot.com-Barras%20Separadoras.png</thumbnail>
+      <fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart>
+      <date>2016</date>
       <credits>Hecho por Jor-El</credits>
     </channels_info>
-	 
     <channel>
-    	<name>NOMBRE CATEGORÍA</name>
-    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
-    <thumbnail>http://cdn2.hubspot.net/hub/358248/file-2539707459-png/50-
-
-peliculas-para-geeks.png</thumbnail>
-    
-
-<fanart>http://static.batanga.com/sites/default/files/styles/full/public/tech.b
-
-atanga.com/files/Sitios-legales-para-ver-pel%C3%ADculas-Online-1.jpg?
-
-itok=XR_3YEtf</fanart>
-    
-    <item>
-	<title>TITULO DEL CANAL</title>
-	<link>URL</link>
-    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
-    </item>
-
-    <item>
+    	<name>Películas en audio latino</name>
+    	<info>Estrenos de películas en audio latino</info>
+    	<thumbnail>http://cdn2.hubspot.net/hub/358248/file-2539707459-png/50-peliculas-para-geeks.png</thumbnail>
+    	<fanart>http://static.batanga.com/sites/default/files/styles/full/public/tech.batanga.com/files/Sitios-legales-para-ver-pel%C3%ADculas-Online-1.jpg?itok=XR_3YEtf</fanart>
+    	<item>
+    		<title>Películas en Audio Latino</title>
+    		<link>http://adryanlist.org/adryan/audio_latino.xml</link>
+    		<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+    		</item>
+    	<item>
 	<title>TITULO DEL CANAL</title>
 	<link>URL</link>
     <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
