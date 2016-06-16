@@ -90,76 +90,2506 @@
      <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
      <genre>Aventura, Familia, Fantasía</genre>     </item>
      
-<item>
-<title>Name of News channel 2</title>
-<link>http://sample_link_to_news_channel.m3u8</link>
-<thumbnail></thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
+     <genre>Terror</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a Trav�s del Espejo - TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
+     <genre>Aventura, Familia, Fantas�a</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3ds3at2leg5b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 CAM Latino</title>    <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
+     <genre>Terror</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1f9jnz42iogo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>La Bruja -WEBScreen Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hJPltoCoMP6X4QC8HtDm3XpUbP3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/k06hljqysdm9cvHGZk6Meiv81e6.jpg</fanart>
+     <genre>Misterio, Terror</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nu0m1qclorsw-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>La Bruja  VOSE WebScreener</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hJPltoCoMP6X4QC8HtDm3XpUbP3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/k06hljqysdm9cvHGZk6Meiv81e6.jpg</fanart>
+     <genre>Misterio, Terror</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jxmlw8cq62pw-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Money Monster TSHQ latino </title>   <thumbnail>https://image.tmdb.org/t/p/w500/kKmeBCe73jZlN1rjfJy1TEZrOw5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/o6YRHJoUg5FaV88zdEPoi8zg3JV.jpg</fanart>
+     <genre>Drama, Suspense</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nfzueogxmuct-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>MI gran boda griega 2   - TS</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gN7Su6RP9zDXJigHGyGLnRaWqsb.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vkcHia99rJqyItBQ0VoNF9qo04v.jpg</fanart>
+     <genre>Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-i2uk862gqstn-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Money Monster TSHQ Latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/kKmeBCe73jZlN1rjfJy1TEZrOw5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/o6YRHJoUg5FaV88zdEPoi8zg3JV.jpg</fanart>
+     <genre>Drama, Suspense</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6beu2hfgz241-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Neighbors 2: Sorority Rising - HDRIP Subtitulado</title>   <thumbnail>https://image.tmdb.org/t/p/w500/gfZtP81RyqQt8kTMgkAhVbTEwqU.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
+     <genre>Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4od05a9qy3nl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 cam latino </title>    <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-w2vbjd967ey1-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 tshq subesp </title>   <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2xqeff8wz8q3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>th3 broth3rs gr1msby brrip latino gnula</title>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ha98cn9hvxnv-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 HD-TS vose</title>   <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ixaye9iaj60u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 HD-TS vose</title>    <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-hibtpzm7td5w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Tortugas Ninja 2 Fuera de las sombras 2016 CAM LAT</title>  <thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-e036xahqs8jy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft el origen  TC Subtitulada</title>       <thumbnail>https://image.tmdb.org/t/p/w500/sIELC8gzCWjyNxIB0Kt80tDlhqp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xvdizv8107t5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft el origen cam vose</title>        <thumbnail>https://image.tmdb.org/t/p/w500/sIELC8gzCWjyNxIB0Kt80tDlhqp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xboiisdbaljc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Warcraft el origen Cam Vose</title>       <thumbnail>https://image.tmdb.org/t/p/w500/sIELC8gzCWjyNxIB0Kt80tDlhqp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre>    </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-phad0nj2vq4g-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>X-Men: Apocalipsis   TS Latino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zSouWWrySXshPCT4t3UKCQGayyo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oQWWth5AOtbWG9o8SCAviGcADed.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n, Fantas�a</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3zyh5muzskw1-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>X-Men: Apocalipsis  TC Subtitulada</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zSouWWrySXshPCT4t3UKCQGayyo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oQWWth5AOtbWG9o8SCAviGcADed.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n, Fantas�a</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1jznpbh3dsqy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Zoolander BR - Latino</title> <thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zchSMYxvRivumqWhnsYZFyhriTy.jpg</fanart>
+     <genre>Comedia</genre>      </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>http://www.spruto.tv/get_file/1/9a3a734adee79cf55de6473e49ce8b1f/181000/181241/181241.mp4</link>
+<title>Compadres (2016) calidad TS</title>
+<thumbnail>https://image.tmdb.org/t/p/w500/cQfWEHdTYFI4ljckuCa8DRKSRm2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/u7wlXy6MikPwuxrtWkchhigtfOY.jpg</fanart>
+</item>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1sh5pp5rjxl5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 hdrip latino gnula</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
+     <genre>Guerra, Suspense, Drama, Acci�n</genre></item> 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wqkvuwi4q6xu-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>13 Hours The Secret Soldiers of Benghazi 2016 720p vose</title>    <thumbnail>https://image.tmdb.org/t/p/w500/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg</fanart>
+     <genre>Guerra, Suspense, Drama, Acci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-lplj8l99ns8i-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a atraves del Espejo TS-Scr HQ Latino</title> <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/tnJrxidNiBE3kMVxAKYOe5f5Bra.jpg</fanart>
+     <genre>Aventura, Familia, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ob7fnghbj1qz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Alicia a atraves del Espejo cam latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/tnJrxidNiBE3kMVxAKYOe5f5Bra.jpg</fanart>
+     <genre>Aventura, Familia, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-thyyrbrxlo8y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Angry Birds 2016 tshq latino gnula v2</title>    <thumbnail>https://image.tmdb.org/t/p/w500/uiOK4gnD6SV4dM1JiE56KFjHE6r.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3mJcfL2lPfRky16EPi95d2YrKqu.jpg</fanart>
+     <genre>Animaci�n, Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sj8rqcmd652m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Espia Por Error 2016 DVDrip Latino</title> <thumbnail>https://image.tmdb.org/t/p/w500/f5dwvGCThdKemNPdXpM7WaoX8Nb.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/q6vNLs1pejZENEHu8jL75Lmub8L.jpg</fanart>
+     <genre>Acci�n, Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ff0y3mg6zo6v-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dioses de Egipto 2016 brrip latino gnula</title>  <thumbnail>https://image.tmdb.org/t/p/w500/5opO2RV5HuXarGSBSYyqCQWxKGv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xy74anT8ZGhUIGVoalnHrmRDHbQ.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bsjnhykur812-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Hail Cesar 2016 brrip latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/gGNvjfzdD2IXkyiFZXFffAezlRH.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/i6m3KnKYhvnTOO1xrHn6PVR1PoR.jpg</fanart>
+     <genre>Comedia, Drama, M�sica, Misterio</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wi0ru9neyfwl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Buenos Vecinos 2 2016 tshq latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/bWUeJHbKIyT306WtJFRHoSzX9nk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5510a1wf51e6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Pride and Prejudice and Zombies 2015 brrip latino gnula</title> <thumbnail>https://image.tmdb.org/t/p/w500/aYxSgQO3TRVtTXZnl46evR6NtvZ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/z6gSLTHsAgqlOwID8jMHfFgeufS.jpg</fanart>
+     <genre>Romance, Terror, Comedia, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-9kv2rztsqkb5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Leal 2016 tshq latino gnula v2</title><thumbnail>https://image.tmdb.org/t/p/w500/rUnKJZrDXdSx3GsUu8he6FKHOIf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jaoDlr7XGGtHs1VpN9macrbXheO.jpg</fanart>
+     <genre>Aventura, Ciencia ficci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-h42sr9gy68tt-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>The Do Over 2016 720p VOSE</title><thumbnail>https://image.tmdb.org/t/p/w500/yHz2wt8uSHkWPMwjbJOQH3W9wmF.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j3oZOOSjF1dnUSvPKKS4LqYlUBm.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xbaugmtbxa22-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>The Do Over 2016 720p WEBRip x264</title><thumbnail>https://image.tmdb.org/t/p/w500/yHz2wt8uSHkWPMwjbJOQH3W9wmF.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j3oZOOSjF1dnUSvPKKS4LqYlUBm.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-q2dpt6fp5q3s-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>X-Men: Apocalypse -  Cam</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zSouWWrySXshPCT4t3UKCQGayyo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oQWWth5AOtbWG9o8SCAviGcADed.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a, Ciencia ficci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wa2y8uen10l3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Zootopia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2ezATAD2XgEva1hOrWFUXbf0HAI.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg</fanart>
+     <genre>Animaci�n, Aventura, Familia, Comedia</genre></item>
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sgb3ot9ab747-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Angry Birds 2016 tshq </title><thumbnail>https://image.tmdb.org/t/p/w500/t2mZzQXjpQxmqtJOPpe8Dr2YpMl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg</fanart>
+     <genre>Animaci�n, Comedia</genre></item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-kgu9dxp6m62h-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Buenos Vecinos 2016 ts </title>     <thumbnail>https://image.tmdb.org/t/p/w500/qMJ7DSAQeTdBEs9tGFohWs2aB6n.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zv8lkec26bpt-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dirty GrandPa 2016 hdrip </title>    <thumbnail>https://image.tmdb.org/t/p/w500/cZEx6mB5Ftnt7LvlDjTKXcrTvyg.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/ivm52GLofIbvTb4dp4S4zbPO6II.jpg</fanart>
+     <genre>Aventura, Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-t26p0gjh0cjb-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dioses de Egipto 2016 webrip subtitulada </title>thumbnail>https://image.tmdb.org/t/p/w500/5opO2RV5HuXarGSBSYyqCQWxKGv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xy74anT8ZGhUIGVoalnHrmRDHbQ.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-shrnsg7ok8rh-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Kung Fu Panda 3</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9PeNMCQSolcCpZHPIdOEJhzOIG3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+     <genre>Acci�n, Aventura, Animaci�n, Comedia, Familia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-x97xvbul3ksg-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>que culpa tiene el ni�o </title> <thumbnail>https://image.tmdb.org/t/p/w500/isy0Yd69oZc05kGgu0WCd6hONl2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jw15rAjCHoNJkovcLOu6xb7ecmO.jpg</fanart>
+     <genre>Familia, Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3t7j0kgtm63q-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Solace 2015 hdrip </title><thumbnail>https://image.tmdb.org/t/p/w500/4MkNIKVZxYkga4208RXdRZ76zjf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/gv1vnLPKRuAnpql7A0g4APvRaR9.jpg</fanart>
+     <genre>Crimen, Drama, Misterio</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-s3903zponz42-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>The Boy 2016 hdrip </title> <thumbnail>https://image.tmdb.org/t/p/w500/4XkBOyWWfEz078BZ1lUk64X0VgF.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aOvgn3E5OjJDepApd1WtS2doqMF.jpg</fanart>
+     <genre>Terror, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-9qr5fitgkpof-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Triple 9 2016 brrip Subtitulada </title><thumbnail>https://image.tmdb.org/t/p/w500/dwRHF43p50wLIYAIxrUhLkK3jCI.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yB5f25CPuTrb6XSbd076kzR9Qz6.jpg</fanart>
+     <genre>Crimen, Drama, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0n0bjo37ckin-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Zoolander 2 2016 brrip </title><thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ksakg8mj78t5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Deadpool</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kS3pI9nSLZuX8CAzaQOBF6mQ3uX.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre> </item>
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yyc9fqmcxp0i-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Witch - BRS </title>    <thumbnail>https://image.tmdb.org/t/p/w500/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/v9oJ6MaO5wdBEa20dzG6OAhoM8h.jpg</fanart>
+     <genre>Misterio, Terror</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mwjhxliela8f-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Londres bajo fuego</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xea0Y8XjVPxOcjvsFx9heLdsRP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8zaRahCVUZknvIY0vqbtObVM8SJ.jpg</fanart>
+     <genre>Acci�n, Crimen, Suspense</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0o8ta9v88fi2-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Neighbors 2: Sorority Rising 2016 ts </title>     <thumbnail>https://image.tmdb.org/t/p/w500/qMJ7DSAQeTdBEs9tGFohWs2aB6n.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg</fanart>
+     <genre>Comedia</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-x7yotkr1gcg5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Captain America: Civil War</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5N20rQURev5CNDcMjHVUZhpoCNC.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
+     <genre>Acci�n, Suspense, Ciencia ficci�n</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3slboc8kwtqz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>Kung Fu Panda 3</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9PeNMCQSolcCpZHPIdOEJhzOIG3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+     <genre>Acci�n, Aventura, Animaci�n, Comedia, Familia</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3zktqhh5r6ew-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>Batman vs. Superman: El origen de la justicia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cGOPbv9wA5gEejkUN892JrveARt.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-g94rnm54zybz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Boy 2016 HdRip</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yHhBfL2msdFWwLpjGSgPJpVmxQN.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aOvgn3E5OjJDepApd1WtS2doqMF.jpg</fanart>
+     <genre>Terror, Suspense</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zlt6lou27f3f-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>El Cazador y la Reina del Hielo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5zBHbEeB554oRELKauKXW5Z3q9t.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nQ0UvXdxoMZguLuPj0sdV0U36KR.jpg</fanart>
+     <genre>Acci�n, Aventura, Drama, Fantas�a</genre>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-z5sflk1i3dhf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Angry Birds Movie HDTS VO</title>   <thumbnail>https://image.tmdb.org/t/p/w500/t2mZzQXjpQxmqtJOPpe8Dr2YpMl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg</fanart>
+     <genre>Animaci�n, Comedia</genre>
+ </item>
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mzm9sfqq7dqc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>El Cumple de la Abuela 2015 dvdrip </title>   <thumbnail>https://image.tmdb.org/t/p/w500/qftkUGIHvyALrKcsZ5UrPGhVwq0.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xbBDiOFJjYrRuIVatS59vEyvHaZ.jpg</fanart>
+     <genre></genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-brb89btzq5be-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Cadena de Comando 2015 dvdrip</title> <thumbnail>https://image.tmdb.org/t/p/w500/hNGCQg37UR1drSUGUXblLMOF8RJ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zghYzW2QhoHzpJGInQCSIbED8X3.jpg</fanart>
+     <genre>Suspense, Aventura, Acci�n</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-adq3isbf4dlk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Criminal Activities 2015 dvdrip </title>     <thumbnail>https://image.tmdb.org/t/p/w500/wU5TfsKFGoG16s6ACrDPtLgK74n.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nr0QVkCtLaAOiQErp1SzF5s4gBO.jpg</fanart>
+     <genre>Suspense, Crimen, Drama</genre>   </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-63adbtfa35hb-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Dead 7 2016 hdtv </title>   <thumbnail>https://image.tmdb.org/t/p/w500/xJdhF5RozAZinsMtVaScaArHyIY.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2HNnwUG2oDlqnCdQevLF9BZO58c.jpg</fanart>
+     <genre>Terror, Western</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-iewb75u4cfid-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Dragon Ball Z: La Resurrecci�n de Freezer</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9XNTHa4iz55oSdWNaO95ubp6PZO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j98rDMOFD7iWdFV4JMFinq3UMj2.jpg</fanart>
+     <genre>Acci�n, Aventura, Animaci�n, Fantas�a</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zlqpczt2et7s-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Fifty Shades of Black 2016 hdrip </title>  <thumbnail>https://image.tmdb.org/t/p/w500/74oqMGvngMj5oX1bclpEwMOIPJV.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aWN8Z2jpIwe5QwHRl2VBAxc1qYi.jpg</fanart>
+     <genre>Romance, Comedia</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0okkwyz3shki-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>LAs Elegidas 2015 dvdrip </title>   <thumbnail>https://image.tmdb.org/t/p/w500/qeqwzBxZdHmsPfi0ztyoxYzntzU.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/m97gxgE2lCDRqm5ZnWHsLUHjyJU.jpg</fanart>
+     <genre>Drama</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ylm467aq4lqe-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>La Casa de Rosewood Lane 2012 dvdrip </title>  <thumbnail>https://image.tmdb.org/t/p/w500/51EWJwASubY45ruGURDNDfpWuw8.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aZTt3x1WiiYTuKZsndA6qxX51dq.jpg</fanart>
+     <genre>Terror, Suspense</genre>       </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-7dk19mdd3b9c-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                  <title>La Resurrecci�n de Cristo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cr8lQd94bxlhyDfimweUMnLZoxf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/cBnYZr2FeU6fzkMbkHzzeT5RBrw.jpg</fanart>
+     <genre>Acci�n, Aventura, Drama, Misterio</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-s8vv86p6f1jo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Solace 2015 hdrip </title> <thumbnail>https://image.tmdb.org/t/p/w500/4MkNIKVZxYkga4208RXdRZ76zjf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/gv1vnLPKRuAnpql7A0g4APvRaR9.jpg</fanart>
+     <genre>Crimen, Drama, Misterio</genre>        </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ipwd9986dap5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Hateful Eight 2015 brrip </title>   <thumbnail>https://image.tmdb.org/t/p/w500/qC6EfdhPW6X3zjRvLsflayI9cKy.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg</fanart>
+     <genre>Crimen, Drama, Misterio, Western</genre>     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2no25k3edkio-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>El Cazador y la Reina del Hielo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5zBHbEeB554oRELKauKXW5Z3q9t.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nQ0UvXdxoMZguLuPj0sdV0U36KR.jpg</fanart>
+     <genre>Acci�n, Aventura, Drama, Fantas�a</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mts4gpv7pt4n-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Wannabe 2015 dvdrip </title>  thumbnail>https://image.tmdb.org/t/p/w500/wkMxehFqkjOHD7u4IZL6d0XH4yl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qxDFG5GNOld7rYXJUJEiUgkC9TR.jpg</fanart>
+     <genre>Suspense, Misterio, Crimen, Drama</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-u8pvzkxa3mxb-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Zero Theorem 2014 hdrip </title>  <thumbnail>https://image.tmdb.org/t/p/w500/jsaRDf5Syw0dueU0mSXh4r1yzs0.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3iY2zbHvSnbWXsOVBXdyNxUopUQ.jpg</fanart>
+     <genre>Drama, Fantas�a, Ciencia ficci�n</genre>      </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-i0x1tb4vmofk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Zoolander 2 2016 brrip </title> <thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
+     <genre>Comedia</genre>        </item>
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sa2x73uhk18y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Avenida Cloverfield 10</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg</fanart>
+     <genre>Drama, Misterio, Ciencia ficci�n, Suspense</genre>
 </item>
 
-<item>
-<title>YouTube - Video Link</title>
-<link>https://www.youtube.com/watch?v=xxxxxxxx</link>
-<thumbnail></thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v140bff7d9e0-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>El Cumple de la Abuela </title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qftkUGIHvyALrKcsZ5UrPGhVwq0.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xbBDiOFJjYrRuIVatS59vEyvHaZ.jpg</fanart>
+     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nycrsm2ihbpz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Creed    </title>
+<thumbnail>https://image.tmdb.org/t/p/w500/3J4IJiPc5JUGw0nWCueKOCokisE.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nF4kmc4gDRQU4OJiJgk6sZtbJbl.jpg</fanart>
+     <genre>Drama</genre>
+     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rv3hp2xpedk3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Diablo</title>
+      <thumbnail>https://image.tmdb.org/t/p/w500/qHxDheAS78Uvn9GQUkS6erZhWs2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bBfnLakBXCHRGB8WpzhUzlszoyD.jpg</fanart>
+     <genre>Acci�n, Aventura, Suspense, Western</genre>
+     </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v3ru268yqbzh-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>MI gran boda griega 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gN7Su6RP9zDXJigHGyGLnRaWqsb.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yNgowLEX1CdSWzcQyfMNVBpOcJ6.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bow5ab8m9c3w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>The Witch </title>
+  <thumbnail>https://image.tmdb.org/t/p/w500/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/v9oJ6MaO5wdBEa20dzG6OAhoM8h.jpg</fanart>
+     <genre>Misterio, Terror</genre>
+     ></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aas40xiukhm3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Zoolander 2 </title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/u2s2WOskiEH71WbGCZehZ0shduO.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qIYOV0QhnlreWKKGPY5BlGcILFV.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6i305mjz1nv3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Ominous</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hlX5bI7buFwzRsPyQga50yUpcXQ.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Terror</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jizl6vzhn2xo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          
+   <title>Nunca es Tarde</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iOOtEUE6BZHkNeGIGDZLYCbpb5h.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2Af531SGBYtkKRwpSuZhV6JsHhL.jpg</fanart>
+     <genre>Comedia, Drama, M�sica</genre></item>
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8kn7xxsy62ud-740x360.html</page>	 <referer>http://streamin.to</referer></regex> 
+
+<title>Krampus</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wsQuufskkPUcxuFpNZvJ24mSfpD.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5GsJuYZuG1bkuSI8FeWol5nvR9S.jpg</fanart>
+     <genre>Terror, Comedia, Fantas�a</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mxme9yagaxgr]-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Look Who's Back</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/txX7m1ZYTpKv1yqO0E6IRSlCfKQ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/pdWtvv5VZspzhVjrlqY3BRkjs8N.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nfxz356ngeud-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>My Life as a Dead Girl </title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9YjA333KhRezZKolXNVCOUsNiiS.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Misterio, Crimen, Fantas�a</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0pg2kj615tsz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Rock the Kasbah: Descubriendo una Estrella</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7Ljch9R3uie8lV3z1GUUHZRkvKH.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wsoOmoN9mcErbCEFH4SveuD28Si.jpg</fanart>
+     <genre>Comedia, M�sica, Guerra</genre></item>
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-psfmmausoosg-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          
+    <title>The Black Rider: Revelation Road</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wIBfFaJaCutKUUuPMRxoQx7ZN6g.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/ykW863g9VpPMPGXN0z7v5XJvMJ6.jpg</fanart>
+     <genre>Suspense, Fantas�a, Acci�n, Drama</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zcstf556nmh4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Revenant: El Renacido</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uVb4ejquff6LLSeJxcMGtAP8fSP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg</fanart>
+     <genre>Western, Drama, Aventura, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-dl9ygo27kql5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>The Witch</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dIkFrbXX9OrUqPcrunJ6GSweTML.jpg</fanart>
+     <genre>Misterio, Terror</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yv1xphi4lbsc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>The one i wrote for you</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6K2lXVKeVpPf6ohDSaiB1hZeX3T.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>M�sica, Drama, Familia</genre></item>
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5xnrki8dna71-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Avenida Cloverfield 10</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg</fanart>
+     <genre>Drama, Misterio, Ciencia ficci�n, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-q8d9wbwgnl2y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Batman vs. Superman: El origen de la justicia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6bCplVkhowCjTHXWv49UjRPn0eK.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg</fanart>
+     <genre>Acci�n, Aventura, Fantas�a, Ciencia ficci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-cvz43rti7qrq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                <title>HardCore Henry</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qfWLO0iXmbvxzyk0ez4pXrgkRDM.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vhOzFmdma0ELiGSuyhNOLAgNG9D.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-t5eueg9nzxpj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Joy</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zNjxzdgSwzRXnP8Stu3HGzKQKWp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dGcyU5Uhk49rVtpuHKVIwtMAOiP.jpg</fanart>
+     <genre>Comedia, Drama</genre></item>
+	 
+	 
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6arxtwlyjlpp-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Leal</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rUnKJZrDXdSx3GsUu8he6FKHOIf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jaoDlr7XGGtHs1VpN9macrbXheO.jpg</fanart>
+     <genre>Aventura, Ciencia ficci�n</genre></item>
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d39980fui62u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Norm of the north</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qv09dxeJoNQIbalsl47yObGgcc5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/v1zDOkk97wrX40QXm2mArs6fnP0.jpg</fanart>
+     <genre>Aventura, Animaci�n, Comedia, Familia</genre>
+</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nvl00m16u4om-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Pride and Prejudice and Zombies</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ubdmnIbKZk3BE9cAA3tVzLZ46SB.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/6DtEY8RDbmnihJbvRKRTatgTHlx.jpg</fanart>
+     <genre>Romance, Terror, Comedia, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-vff8k1g6j6s5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Sisters</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/s15kbBAroxuUdiZwu876mOBAdqP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3NvqSvxmxlXSwhkAFM2Rmb5raGP.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d2w5gqylpd2c-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                <title>La Guerra de las Galaxias. Episodio VII El Despertar De La Fuerza</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ps0vt8CZEFuWbRvGBdZSsUmjV2d.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/njv65RTipNSTozFLuF85jL0bcQe.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n, Fantas�a</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ogbpo9k1e41m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>The Finest Hours</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hA6Q8pXx8KHw1y3ZgcUkNqGceIn.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/a6VvlnIRTJTPUnyf1tIV9kEJO27.jpg</fanart>
+     <genre>Acci�n, Suspense, Drama, Historia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ycx4wunb8nqd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Un Gran Dinosaurio</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/25ADkbQqXJiPOTnYs4AdaReRXGJ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/pDuD96Fz0ZZXf9buEvRu1UQsmFT.jpg</fanart>
+     <genre>Fantas�a, Animaci�n, Comedia, Familia, Aventura</genre></item>
+	 
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8hq5s6c6xx93-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>The Hunger Games: Mockingjay - Part 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ssdllXLqC6sxv5yvduUXxCSCkxn.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg</fanart>
+     <genre>Acci�n, Aventura, Drama</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-082pqy6yy19e-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Revenant: El Renacido</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg</fanart>
+     <genre>Western, Drama, Aventura, Suspense</genre></item>
+	 
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nntlihs16y7u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Zootopia</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg</fanart>
+     <genre>Animaci�n, Aventura, Familia, Comedia</genre></item>
+
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f5tbld4q856c-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>El Incidente</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8Uwtb2guVxp5TZsvQFRshCbf7HN.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Ciencia ficci�n</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-36rpb19ocllq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>50 Sombras Negras</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/74oqMGvngMj5oX1bclpEwMOIPJV.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aWN8Z2jpIwe5QwHRl2VBAxc1qYi.jpg</fanart>
+     <genre>Romance, Comedia</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pn1bsyg6iait-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Deadpool</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kS3pI9nSLZuX8CAzaQOBF6mQ3uX.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+     <genre>Acci�n, Aventura, Comedia</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5silt4ghr37g-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Krampus</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3qtL2DzRwYXzbNjxjavaBr5lurv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5GsJuYZuG1bkuSI8FeWol5nvR9S.jpg</fanart>
+     <genre>Terror, Comedia, Fantas�a</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-l2p3d4tt1ysj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>my life as a dead girl</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9YjA333KhRezZKolXNVCOUsNiiS.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Misterio, Crimen, Fantas�a</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nw60qndsydou-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>The 5th Wave</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wRfFoIrVn9e56qch9L5lQ3Uu625.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/1usA1K56wW97McyXPuUL1OTRDBO.jpg</fanart>
+     <genre>Aventura, Ciencia ficci�n</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-npyee9dw6qma-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>El bosque siniestro</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oQ3DpmfMRxpzQSVpKcRtFs55W0B.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/kIg1sA16YQDblcD7w3qn5MBwsul.jpg</fanart>
+     <genre>Terror, Suspense</genre> </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zs6ypa592cxz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>El Libro de la Selva</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zYifdFajjNsn6mNEmwpB5KzBdF5.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg</fanart>
+     <genre>Aventura, Drama, Fantas�a</genre> </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-a160edy70x22-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           
+    <title>Alvin y las Ardillas - The Road Chimp</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fwUttAsdIr5E6sj52ZZ63MHiGJM.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/rM6rTJ2RgMTI9SXdQKVm4rPnzVc.jpg</fanart>
+     <genre>Aventura, Animaci�n, Comedia, Familia</genre> </item>
+	 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ipluhzh3m4r3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Dirty GrandPa</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/owGsx9UbGM1K7a92Y1CEONZiKA8.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/83oxSw3tESSRy9NbWG2ZF3H1v4v.jpg</fanart>
+     <genre>Aventura, Comedia</genre>
+ </item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8mnxzox6qzdz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>hours the secret soldiers of benghazi</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3Pq1SIxKgJ2kxOuhwxyf5uv7Tx9.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/hY8myWhjSOUeeiPskhOfwwgaCwc.jpg</fanart>
+     <genre>Suspense, Drama, Acci�n</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6f0612fnb9cb-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Kung Fu Panda 3</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9PeNMCQSolcCpZHPIdOEJhzOIG3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+     <genre>Acci�n, Aventura, Animaci�n, Comedia, Familia</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-y2z5rue2vtn5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Londres bajo fuego</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nK7poFj5zwywfOaWMUkVByvDMMl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8zaRahCVUZknvIY0vqbtObVM8SJ.jpg</fanart>
+     <genre>Acci�n, Crimen, Suspense</genre>
+ 
+     <info>En un mundo gobernado por la injusticia y el caos, aparece la figura del Presidente de los Estados Unidos que junto a su portavoz Trumbull, liderar�n una lucha interna por las libertades de todos los americanos. Sin embargo, se producir� un intento de derrocamiento por parte de fuerzas esp�as para acabar con el Primer Ministro ingl�s. Esto podr�a significar el fin de la paz mundial. Para ello el Presidente contar� con la inestimable ayuda de su guardaespaldas. Mike Benning, agente secreto del MI6, liderar� una operaci�n para intentar acabar con esta revoluci�n. Benning no estar� s�lo, ya que volver� a encontrar apoyo de Trumbull, especializado en t�cnicas paramilitares.
+ Direcci�n : Babak Najafi
+ Gui�n : Creighton Rothenberger, Katrin Benedikt, Christian Gudegast
+ A�o : 2016
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ps2nonmks1y9-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Infiltrados en Miami</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nenRpeVHOCp0zc7ERW43sZWzlql.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3SEsPAVLPh4ZTKGUdI1GjfVgaA.jpg</fanart>
+     <genre>Acci�n, Comedia</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xmod2gsoa1ml-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Primera Plana (spotlight)</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/mYle76KdC8vaMJz6r73S0nKmnk2.jpg</fanart>
+     <genre>Drama, Historia, Suspense</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-t796owibtnjz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>The Big Short</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/korgB5FVdMALHysRY5JjCYpGcX2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jmlMLYEsYY1kRc5qHIyTdxCeVmZ.jpg</fanart>
+     <genre>Drama, Comedia</genre> </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sexp97cr1q3i-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>El Cazador y la Reina del Hielo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5zBHbEeB554oRELKauKXW5Z3q9t.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nQ0UvXdxoMZguLuPj0sdV0U36KR.jpg</fanart>
+     <genre>Acci�n, Aventura, Drama, Fantas�a</genre>
+ 
+     <info>Mucho antes de que Ravenna (Charlize Theron) fuese apu�alada y aparentemente vencida por Blancanieves, la malvada reina fue testigo de c�mo su hermana Freya (Emily Blunt) sufr�a una desgarradora traici�n y hu�a del reino. Vali�ndose de su habilidad para congelar a cualquier enemigo, la joven reina del hielo Freya lleva ya d�cadas en un remoto palacio invernal formando una legi�n de cazadores letales, que cuenta entre sus filas con Eric (Chris Hemsworth) y la guerrera Sara (Jessica Chastain), cuando descubre que sus dos campeones han incumplido la �nica regla impuesta a los soldados: desterrar el amor eternamente de sus corazones. Al enterarse de que su hermana ha muerto, Freya re�ne al resto de cazadores y les ordena traer el espejo m�gico ante la �nica hechicera que queda con vida capaz de dominar su poder.
+ Direcci�n : Cedric Nicolas-Troyan
+ Gui�n : Frank Darabont, David Koepp, Craig Mazin, Evan Spiliotopoulos
+ A�o : 2016
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rfk8ze77ahhj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Triple 9</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/36zbHT728v00HbbUBmrsOMu7Hde.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yB5f25CPuTrb6XSbd076kzR9Qz6.jpg</fanart>
+     <genre>Crimen, Drama, Suspense</genre> </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rnw4ni5xdslk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Don Gato El Inicio de la Pandilla </title>
+  <thumbnail>https://image.tmdb.org/t/p/w500/i4ITCSx3i4WHlTrWY4mzzET9zB9.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/hKcwz8m64E8TLjUjyYFm3yu9Bj2.jpg</fanart>
+     <genre>Animaci�n</genre></item>
+
+	 
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pcy63d6xhrtd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Los Hijos del Diablo</title>
+  <thumbnail>https://image.tmdb.org/t/p/w500/fTkS0EuaCFefCeP1gBSRHYsaSKY.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/r71tdOH9GJByxJHaM62bKM9QwFL.jpg</fanart>
+     <genre>Terror</genre>
 </item>
 
-<item>
-<title>YouTube - Video Link</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxx</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bvl9bso9zy36-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Punto de Quiebre </title>
+ <thumbnail>https://image.tmdb.org/t/p/w500/tL3O5kjWPl6cfBQ8JAP1au6mMqj.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/x2JJGVftWfx2JGyqW6pqP3JrkO0.jpg</fanart>
+     <genre>Crimen, Acci�n, Suspense</genre>
 </item>
 
-<item>
-<title>YouTube - Video Link</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xxxxxxxx</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
 
-<item>
-<title>YouTube - Video Link</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=xxxxxxxx</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
 
-<item>
-<title>YouTube - User (playlists)</title>
-<link>https://www.youtube.com/user/UserName</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
 
-<item>
-<title>YouTube - User (playlists)</title>
-<link>plugin://plugin.video.youtube/user/UserName</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
 
-<item>
-<title>YouTube - Channel (playlists)</title>
-<link>https://www.youtube.com/channel/ChannelName</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-luq2p9h5uvbl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>La Gran Apuesta </title>
+  <thumbnail>https://image.tmdb.org/t/p/w500/korgB5FVdMALHysRY5JjCYpGcX2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jmlMLYEsYY1kRc5qHIyTdxCeVmZ.jpg</fanart> 
+     <genre>Drama, Comedia</genre></item>
+	 
+	 
+	 
 
-<item>
-<title>YouTube - Channel (playlists)</title>
-<link>plugin://plugin.video.youtube/channel/ChannelName</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ztcicafpo535-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Alvin y Las Ardillas 4 </title>
+<thumbnail>https://image.tmdb.org/t/p/w500/waP4aEfXFlIUWoImHRnbOOOew4m.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/rM6rTJ2RgMTI9SXdQKVm4rPnzVc.jpg</fanart>
+     <genre>Aventura, Animaci�n, Comedia, Familia</genre></item>
 
-<item>
-<title>DailyMotion - Video Link</title>
-<link>http://www.dailymotion.com/video/yyyyy_xxxx-xxx-xxx-xxx_xxxxx</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-gpsr5mk6eb53-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Carol </title>
+<thumbnail>https://image.tmdb.org/t/p/w500/ng8JnXpAikMLFvu7aL94hSFGfzA.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sCubt6xIlG1RVBPFoBOM6ik8Mrw.jpg</fanart>
+     <genre>Romance, Drama</genre></item>
 
-<item>
-<title>DailyMotion - Video Link</title>
-<link>http://www.dailymotion.com/video/yyyyy</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ip26kvc4qkki-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Ladrones </title>
+ <thumbnail>https://image.tmdb.org/t/p/w500/sryeUaEFXdMfsgqxKUp5HQzRPBz.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/9tY8juEMxTmOAC4UQeSb4tkLMoo.jpg</fanart>
+     <genre>Crimen, Comedia</genre></item>
 
-<item>
-<title>DailyMotion - Video Link</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=playVideo&amp;url=yyyyy</link>
-<thumbnail>http://www.link to thumbnail</thumbnail>
-</item>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ixg66uxcu7ib-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Victor Frankenstein </title>
+ <thumbnail>https://image.tmdb.org/t/p/w500/oNNoyVuJDMQxs8ADd4iYqHCAjZw.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/AsNosq3JX6YfWy7HXmHnJjV7Fsw.jpg</fanart> 
+     <genre>Ciencia ficci�n, Drama, Suspense, Terror</genre></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yrqo48ejrhqc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Brooklyn </title>
+ <thumbnail>https://image.tmdb.org/t/p/w500/tg4cc5pdz9edne6Rlh1vq23s3WJ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/7fXKVIM8UQBvQ9aQOzFqThlq7eN.jpg</fanart>
+     <genre>Drama, Romance</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v324pms5oi90-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>La Chica Danesa </title>
+ <thumbnail>https://image.tmdb.org/t/p/w500/pnqdEVXGYVD6TMxEiPVS8aiZPgf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vb1eu4JLDAZo0hjx6CoLyQSOmf7.jpg</fanart>
+     <genre>Drama</genre></item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8zirm1hfy5rm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Los 8 Mas Odiados </title>
+  <title></title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qC6EfdhPW6X3zjRvLsflayI9cKy.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg</fanart>
+     <genre>Drama, Misterio, Suspense, Western</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-s7e24pq6n7ew-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Los juegos del hambre: Sinsajo - Parte 2</title> 
+ <thumbnail>https://image.tmdb.org/t/p/w500/sv4UUyQxP3qCp7kArPhZk1JlAj8.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg</fanart>
+     <genre>Aventura, Acci�n, Drama</genre></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zmit7i7nv7kc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Automata</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Hq0Z02mcy88AcePmuJqtLLsv7.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/281QVUuSYKBgtdxmr5iAM7YDUZw.jpg</fanart>
+     <genre>Suspense, Ciencia ficci�n</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-3wryrs84mo8p-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Captive</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kUBbcWqzKESsiWTZ4sobpQsQwOk.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/mlFuPxdzi6B3mZHnkZVq3YTg1rS.jpg</fanart>
+     <genre>Crimen, Drama, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1lk1pevmpekf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Guerras de Papas</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lwJwAquPBUNEsy5sv50SQWb8ywY.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qb8O3o1J5DzX7WDEdH1nXpEHZky.jpg</fanart>
+     <genre>Comedia</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-xh3yz0ggg23t-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>El Lado peligroso del Deseo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bt4yNEfABPZracOhMVeBNl4to4M.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/A1kVYDMzZY1KpKO2AuoSQoStyQs.jpg</fanart>
+     <genre>Terror, Suspense</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-40v6wvv76bd5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>La Verdad Oculta</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/y2wcG7VlyBRI53BZp7cyHRH5SCR.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bGpguMT9LtJXFeSietuX40mjfuu.jpg</fanart>http://streamin.to/
+     <genre>Drama</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-smxjppufw08g-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>NightLight</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pWS9lr5eSEuk9dZJguY9QjnzkQc.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/chtJnwrlXjtYU6YL7n8HLJBPW29.jpg</fanart>
+     <genre>Suspense, Terror</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jecu86qn7q3n-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Son of a Gun</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xb4YXFkpT6lu1t5mO5qdqJp1mrg.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/7UWPr9LUq3GizuZDG3e6PvSlvck.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama, Suspense</genre></item>
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-7v5mgwvkdw33-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>007 Spectre</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mSvpKOWbyFtLro9BjfEGqUw5dXE.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wVTYlkKPKrljJfugXN7UlLNjtuJ.jpg</fanart>
+     <genre>Acci�n, Aventura, Crimen</genre>
+
+     <info>Un cr�ptico mensaje del pasado env�a a James Bond a una misi�n secreta a M�xico D.F. y luego a Roma, donde conoce a Luc�a Sciarra, la hermosa viuda de un infame criminal. Bond se infiltra en una reuni�n secreta y descubre la existencia de una siniestra organizaci�n conocida como SPECTRE. Mientras tanto, en Londres, el nuevo director del Centro para la Seguridad Nacional cuestiona las acciones de Bond y pone en duda la importancia del MI6, encabezado por M. De modo encubierto Bond recluta a Moneypenny y Q para que le ayuden a buscar a Madeleine Swann, la hija de su antiguo archienemigo, el Sr. White, que quiz� tenga la clave para desentra�ar el misterio de SPECTRE. A medida que Bond avanza en su misi�n, descubre una estremecedora conexi�n entre �l mismo y el enemigo que busca.
+ Direcci�n : 007 Spectre
+ Gui�n : John Logan, Neal Purvis, Robert Wade, Jez Butterworth
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-gczpnft8k78b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Bus 657</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/t5tGykRvvlLBULIPsAJEzGg1ylm.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/cBlnfR0n1GA2vPoUQNcbL9pb3VW.jpg</fanart>
+     <genre>Acci�n, Suspense</genre>
+
+     <info>Un padre no tiene los medios para pagar el tratamiento m�dico de su hija. Como �ltimo recurso, se asocia con un codicioso compa�ero de trabajo para robar un casino. Cuando las cosas van mal, se ven obligados a secuestras un autob�s de la ciudad.
+ Direcci�n : Scott Mann
+ Gui�n : Max Adams, Stephen Cyrus Sepher
+ A�o : 2015
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5c2wbm52t464-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>El puente de los esp�as</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qzEv4nkZdp1nAfril4KR0tDMyro.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bTgqCfMeBgmkcZr2Zw7xO8WlhzK.jpg</fanart>
+     <genre>Drama, Suspense</genre>
+
+     <info>D�cada de los 60. Estados Unidos y la Uni�n Sovi�tica se encuentran en plena Guerra Fr�a. El 1 de mayo de 1960 un avi�n esp�a americano fue derribado por el ej�rcito enemigo cuando sobrevolaba territorio sovi�tico. Sorprendentemente, el piloto, Francis Gary Powers, logra escapar gracias a su paraca�das. Cuando ya se cre�a a salvo, es capturado por los rusos. El abogado James B. Donovan (Tom Hanks, &#x27;Al encuentro de Mr. Banks&#x27;) es el encargado de negociar la liberaci�n del soldado.
+ Direcci�n : Steven Spielberg
+ Gui�n : Ethan Coen, Matt Charman, Joel Coen
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2msnfl2r5xe2-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Ella es Ramona</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ulPi92RkXYNLQuczyR2PwsdtcI4.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Comedia</genre>
+
+     <info>Ramona es una mujer con kilos de m�s y suerte de menos. Recuerda una ni�ez con maltratos de su madre, su hermana y sus amigas. Era Ramona �panzona�, Ramona �la tragona� o �Ramona Jamona�. Y ya adulta, las cosas no mejoraron. La corren del trabajo por gorda, quiere hacerse una liposucci�n, pero su doctor le informa que no es candidata a ese tipo de intervenciones por �gorda�, y todo su universo parece derrumbarse por una sucesi�n de infortunios. Todo parece enmendarse, cuando por casualidad se cruza con un Caf� tarot donde venden unos escarabajos m�gicos que le cambiar�n la vida.
+ Direcci�n : Hugo Rodr�guez
+ Gui�n : Beto Cohen
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-koaosadtf6lk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Pesadillas</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uzLiKzZWs3UjdYCudK87rPx0llT.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/itouI22hCgvU4psqC9DuwAOYuL2.jpg</fanart>
+     <genre>Aventura, Comedia, Terror</genre>
+
+     <info>El adolescente Zach Cooper se muda sin muchas ganas con su familia desde Nueva York al peque�o pueblo de Greendale. All� encuentra un resquicio de ilusi�n cuando conoce a su vecina, la guapa Hannah, y hace un amigo: Champ. Tambi�n se entera de que el padre de Hannah es RL Stine, autor del Bestseller de la serie Pesadillas. Pero Zach descubre que Stine tiene un secreto: las criaturas de sus historias son reales, y las mantiene encerradas en sus libros. As� que cuando en un descuido todos los demonios de Stine son liberados involuntariamente de sus libros, Zach, Hannah, Champ y el propio Stine, en una alocada noche llena de aventuras, tendr�n que formar equipo y atrapar a todas las criaturas de la imaginaci�n de Stine para devolverlos a los libros donde pertenecen, con el fin de salvar la ciudad.
+ Direcci�n : Rob Letterman
+ Gui�n : Darren Lemke , Larry Karaszewski, Scott Alexander, R.L. Stine
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-cslcshgs2aw7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Jem y los hologramas</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4kIgibYX725i3MVoqqdNCjEqR2G.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/A5g8agUFaYt3UNnHzUrVYeCmVHR.jpg</fanart>
+     <genre>Drama, M�sica, Aventura, Fantas�a</genre>
+
+     <info>Pel�cula de acci�n real basada en la serie de dibujos animados de los a�os 80 del mismo nombre.  Jerrica Benton y su hermana Kimber son hijas del due�o de la prestigiosa discogr�fica Stalight Music. Cuando el padre de las dos chicas muere de manera inesperada les deja en herencia unos extra�os pendientes con forma de estrella. Nada m�s ponerse los pendientes Jerrica aparece una mujer holograma que la conduce a ella y sus amigas al s�tano de un cine abandonado donde encuentran la herencia de su padre: Synergy, un artefacto capaz de generar hologramas de gran realismo adem�s de cambiar objetos y crear im�genes s�per realistas.  Cuando ambas hermanas se dan cuentan de que Eric Raymond, antiguo asesor de su padre, est� intentando quedarse con Satrlight Music a trav�s del grupo musical The Misfits, ellas mismas montar�n un grupo gracias a Synergy y sus dos amigas, Aja y Shana, &#x27;Jem and the Holograms&#x27;, liderado por Jerrica que decide cambiarse de nombre.
+ Direcci�n : Jon M. Chu
+ Gui�n : Ryan Landels
+ A�o : 2015
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-myzrof4hk4kc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>La Superficie</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uu2Pt4bvvKZetLXXCd2fug8y64M.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/l4PH1sj1ijIqQvAk8H7avluQzmp.jpg</fanart>
+     <genre>Suspense, Drama</genre>
+
+     <info>Dos amigos se ven obligados a superar los problemas que existen entre ellos y as� poder trabajar juntos con la finalidad de sobrevivir al lago Michigan en el cu�l han naufragado y sus misteriosas aguas les impiden volver a sus hogares...
+ Direcci�n : Gil Cates Jr.
+ Gui�n : Jeff Gendelman
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-11t52kvqlrrm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>El marido de mi hermana</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gNISIaKnEnoUTFVJIOMnOT0HuIh.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/ftAq8zlZST3plhLuUyoRR3QGdOT.jpg</fanart>
+     <genre>Comedia, Romance</genre>
+
+     <info>Richard Haign es un brillante profesor de Cambridge con una pasi�n desenfrenada por la poes�a rom�ntica y las mujeres hermosas. Sin embargo, la paternidad le cambiar� la vida. Der forma inesperada Kate, la joven estudiante americana que conoci� en una de sus clases, le va a convertir en padre, noticia que recibe justo cuando conoce a Olivia, una novelista exuberante y exc�ntrica, hermana de la que pronto se convertir� en la madre de su hijo. Un tr�o amoroso que dista mucho de su ideal de familia.
+ Direcci�n : Tom Vaughan
+ Gui�n : Matthew Newman
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-12wwrdfp674s-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>Pay the Ghost</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3ZeaXFlRlZ3DzJ61akU2VotU80X.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vhyd9NqIZ32IbXOq9Pqt0SpHhc8.jpg</fanart>
+     <genre>Terror, Suspense</genre>
+
+     <info>Durante la Noche de Halloween, el hijo de una joven pareja es secuestrado. Un a�o m�s tarde comienzan a sentir su presencia de manera alarmante. Una serie de pistas les lleva a buscar el ni�o a trav�s de Nueva York donde descubrir�n que tiene relaci�n con un esp�ritu feroz y vengativo.
+ Direcci�n : Uli Edel
+ Gui�n : Daniel Kay, Tim Lebbon
+ A�o : 2015
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d0gg35gjqrfh-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Por mis Bigotes</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jJfZQIuNBtpMOdIctgyTiwM1pVb.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/hKO2HTNq8LX2LpdLXiQzOfl77Aw.jpg</fanart>
+     <genre>Comedia, Familia</genre>
+
+     <info>Aunque suene incre�ble, al peque�o Ulises de tan s�lo nueve a�os, de un d�a para otro le creci� el bigote. Esta situaci�n, en apariencia ordinaria, desata una serie de acontecimientos extraordinarios, para �l, su mam� y sus mejores amigos
+ Direcci�n : Manuel Caram�s
+ Gui�n : Jorge A. Estrada
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-eh31zsdg9job-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Sinister 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/AeJYo2wLVL6NpkHxpWIptGbQD0N.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nlLgjizKZSrK9a8sZlJ2YbjoU0Y.jpg</fanart>
+     <genre>Terror</genre>
+
+     <info>Despu�s de que Ashley Oswalt descuartizara a su familia y desapareciera con Mr. Boggie, una madre con sus dos hijos gemelos se mudan a la misma casa donde sucedieran los asesinatos cometidos por los ni�os que fueron pose�dos. Mr. Boogie ha vuelto y acecha a uno de ellos. �Podr�n salvarse de este ser maligno? Secuela de Sinister (Scott Derrickson, 2012). (FILMAFFINITY)
+ Direcci�n : Ciaran Foy
+ Gui�n : Scott Derrickson, C. Robert Cargill
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zzsfi16x8xih-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Woodlawn</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1W7DAA7lYHISyVkq2KbAz0zMG4H.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/urJgrO6gU1WRGgmsT7z6ALpzoJ4.jpg</fanart>
+     <genre>Drama</genre>
+
+     <info>En el a�o 1973, un renacer espiritual consigui� que el entrenador y casi todos los jugadores de f�tbol americano de un equipo de instituto, el Woodlawn, consiguieran superar sus diferencias de racismo y odio. (FILMAFFINITY)
+ Cr�ticas
+ Direcci�n : Andrew Erwin
+ Gui�n : Jon Erwin, Quinton Peeples
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-9om369aakxov-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Atrapa la Bandera</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vzzTy3ctiptqaV3S9tIewjKJ1nf.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg</fanart>
+     <genre>Aventura, Animaci�n, Comedia</genre>
+ 
+     <info>Richard Carson, un ambicioso multimillonario, quiere apropiarse del sat�lite terrestre y explotar la fuente de energ�a limpia y real del futuro, el Helio 3. Para ello, deber� borrar de la Historia la gesta de los astronautas del Apolo XI y sus famosos primeros pasos por la Luna, algo que el 40% de la poblaci�n mundial cree que es mentira. Y el �nico capaz de impedir que se salga con la suya es un simp�tico y decidido surfero de doce a�os, Mike Goldwing. Con la ayuda de sus amigos, el friki Marty, la futura periodista Amy y un peque�o lagarto con aspiraciones de ser Godzilla, viajan a la Luna acompa�ados por el abuelo de Mike, un antiguo astronauta que lleva a�os distanciado de su familia. Ahora est� en las manos de Mike no s�lo salvar el futuro de la Tierra, sino el de su propia familia.
+ Direcci�n : Enrique Gato
+ Gui�n : Jordi Gasull, Neil Landau
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0qt9q9ht0kpv-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Creed. La leyenda de Rocky</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xSE4NBFDzqedwa4AIj99r1Z7ljF.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nF4kmc4gDRQU4OJiJgk6sZtbJbl.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Adonis Johnson no lleg� a conocer a su padre, el campe�n del mundo de los pesos pesados Apollo Creed, que falleci� antes de que �l naciera. Sin embargo, nadie puede negar que lleva el boxeo en la sangre, por lo que pone rumbo a Filadelfia, el lugar en el que se celebr� el legendario combate entre su padre y Rocky Balboa. Una vez all�, Adonis busca a Rocky y le pide que sea su entrenador. A pesar de que este insiste en que ya ha dejado ese mundo para siempre, Rocky ve en Adonis la fuerza y determinaci�n que ten�a su enconado rival, y que termin� por convertirse en su mejor amigo. Finalmente, acepta entrenarle a pesar de estar librando su propio combate contra un rival m�s letal que cualquiera a los que se enfrent� en el cuadril�tero.
+ Direcci�n : Ryan Coogler
+ Gui�n : Ryan Coogler, Aaron Covington
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-rjhhwewllqii-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Spotlight</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/mYle76KdC8vaMJz6r73S0nKmnk2.jpg</fanart>
+     <genre>Historia, Suspense, Drama</genre>
+ 
+     <info>Narra c�mo un equipo de reporteros del Boston Globe destap� los esc�ndalos de pederastia cometidos durante d�cadas por unos curas de Massachussets, acusaciones que la archidi�cesis de Boston intent� ocultar y que sacudi� a la Iglesia Cat�lica en su conjunto.
+ Direcci�n : Tom McCarthy
+ Gui�n : Tom McCarthy, Josh Singer
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wtyj38pdfadr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Predestination</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kDdUtDsGMQ3OYwoBtEQyJIGPz4V.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/s9DKwK5fXzaqFOzkZkidkOk4KR9.jpg</fanart>
+     <genre>Ciencia ficci�n, Suspense</genre>
+ 
+     <info>Un agente eventual del gobierno tendr� que realizar una serie compleja de viajes en el tiempo con el fin de detener a futuros asesinos.
+ Direcci�n : Michael Spierig
+ Gui�n : Michael Spierig, Peter Spierig, Robert A. Heinlein
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-gykqo6sx3sh6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>El rastro del delito</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6pbdf3JCsRGTj7bTGPB1kg7K0DT.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jofxRAcEIdgC3cWYqn68qvvb9uS.jpg</fanart>
+     <genre>Crimen, Misterio, Suspense</genre>
+ 
+     <info>Un oficial de polic�a que hab�a estado bebiendo con sus colegas durante una redada atropella a un ciclista. Su decisi�n de mentir sobre el incidente, afectar� gravemente a su vida y a la de los suyos.
+ Direcci�n : Matthew Saville
+ Gui�n : Joel Edgerton
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-fh7qhxkhpqtt-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Scream 4</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/z3xS14dkyjVL05XWzerpN7bUTlm.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5VqyrIpMbnwXdZFcISmtKr3n75A.jpg</fanart>
+     <genre>Terror, Misterio</genre>
+ 
+     <info>Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez a�os despu�s, convertida en una escritora de �xito, vuelve a su pueblo natal con motivo de la gira de promoci�n de su nuevo libro. Pero su regreso ir� acompa�ado de una nueva ola de cr�menes perpetrados por un viejo conocido: Ghostface.
+ Direcci�n : Wes Craven
+ Gui�n : Kevin Williamson
+ A�o : 2011
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-muryqlxzri5o-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Irrational Man</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1gsUVKOSExTvyv7C1Nx7HKZWgs9.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nEmnkrvTgxirkKnNJGbbAw1hQrd.jpg</fanart>
+     <genre>Drama, Misterio</genre>
+ 
+     <info>Abe Lucas, un profesor de filosof�a en plena crisis existencial, le encuentra de nuevo sentido a su vida al enamorarse de una de sus alumnas. Al poco de llegar a la universidad de una peque�a ciudad, se relaciona con dos mujeres: Rita Richards, una solitaria profesora que busca que la rescate de su infeliz matrimonio; y Jill Pollard, su mejor estudiante y muy pronto su amiga m�s cercana. Jill est� enamorada de su novio, pero encuentra tan irresistible la personalidad atormentada de Abe que, incluso cuando el profesor muestra claros s�ntomas de desequilibrio mental, su fascinaci�n por �l no hace m�s que crecer.
+ Direcci�n : Woody Allen
+ Gui�n : Woody Allen
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pf21gxtu9kwe-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Einstein and Eddington</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4sAaQaX2JwBJ0OgVTuBk5vxbuRT.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/velM4GkSJQZVsZy6fI0NaWrWSLh.jpg</fanart>
+     <genre>Drama, Historia</genre>
+ 
+     <info>The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
+ Direcci�n : Philip Martin
+ Gui�n : 
+ A�o : 2008
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-od06648fkpbf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>El �nico superviviente</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lUs9LItQb044zc9Zg6UthNrvct2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/pPFbXcONHBntJIAsEn8TaIPPCpZ.jpg</fanart>
+     <genre>Acci�n, Drama, Suspense, Guerra</genre>
+     
+     <info>A�o 2005. A un equipo de �lite de las fuerzas especiales SEAL del ej�rcito norteamericano, liderados por Marcus Luttrell (Mark Wahlberg) junto a otros tres soldados (Kitsch, Foster &amp;amp; Hirsch) les es encomendada una peligrosa misi�n, la Operaci�n red wing: capturar o matar a un l�der terrorista talib�n, Admad Shad, que se esconde en una zona boscosa de Afganist�n. La llegada al punto donde localizaron el objetivo se realiz� sin problemas, pero pronto la situaci�n se complic� hasta extremos inimaginables.
+ Direcci�n : Peter Berg
+ Gui�n : Peter Berg, Marcus Luttrell, Patrick Robinson
+ A�o : 2013
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-v8gop4qus86h-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>R3sac�n</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bqcdUnKEz64wTipCoGWzvwXGxjD.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xIrtFqXc62VGcWKHOsQfCq4j3x0.jpg</fanart>
+     <genre>Comedia</genre>
+ 
+     <info>Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida �Qu� puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte est� echada. Tercera entrega de la franquicia iniciada en 2009 con &#x27;Resac�n en Las Vegas&#x27;.
+ Direcci�n : Todd Phillips
+ Gui�n : Craig Mazin, Todd Phillips
+ A�o : 2013
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-kt79360ete9e-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Sicario</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/B51aCXYFKEq0FYSJikss4zZBmq.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/kG5Zn9z20L2O7Jo2Y2jykOMh60v.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama, Misterio, Suspense</genre>
+ 
+     <info>En la zona fronteriza que se extiende entre Estados Unidos y M�xico la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de �lite del Gobierno para luchar contra el narcotr�fico. Bajo el mando de Matt Graver, un fr�o miembro de las fuerzas gubernamentales, y de Alejandro, un enigm�tico asesor, el equipo emprende una misi�n que lleva a la mujer a cuestionarse sus convicciones sobre la guerra contra los narcos y los l�mites de la ley.
+ Direcci�n : Denis Villeneuve
+ Gui�n : Taylor Sheridan
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mvfzb8ghqnkx-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Star Wars: Episodio VII - El Despertar de la Fuerza (VERSION CAM)</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fqos3bbu4io2sQvERcW8rzGJwq2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n, Fantas�a</genre>
+ 
+     <info>S�ptima entrega de la saga Star Wars. Fue confirmada en octubre de 2012, cuando The Walt Disney Company compr� LucasFilms por 4.000 millones de d�lares. El guionista de &#x27;El imperio contraataca&#x27;, Lawrence Kasdan, repite en esta octava entrega de la franquicia intergal�ctica m�s conocida en la historia del cine con Han Solo, Leia y Luke Skywalker a la cabeza.  &#x27;La guerra de las galaxias: Episodio VIII&#x27; se sit�a en la Era de la Nueva Rep�blica. Veinte a�os despu�s de haber terminado la historia de la trilog�a original, los grupos pol�ticos siguen intentando reconstruir un gobierno con el resurgir de la Nueva Rep�blica. La fuerza tambi�n siente el cambio y los Maestros Jedi saben que es el momento de regresar.
+ Direcci�n : J.J. Abrams
+ Gui�n : J.J. Abrams, Lawrence Kasdan
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+ 
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4ze4q1zilpp7-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Saga Divergente: Insurgente</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wrrmR73VzSPkxD60wcsVoYHqUqy.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/L5QRL1O3fGs2hH1LbtYyVl8Tce.jpg</fanart>
+     <genre>Aventura</genre>
+ 
+     <info>Tris (Shailene Woodley) y Cuatro (Theo James) son ahora fugitivos que son perseguidos por Jeanine (Kate Winslet), la l�der de los eruditos. Tris deber� averiguar lo que su familia se sacrific� para proteger mientras los eruditos har�n cualquier cosa para detenerlos. Atormentada por las elecciones de su pasado pero desesperada por proteger a los que ama, Tris, junto a Cuatro, se enfrentar�n a un reto tras otro para desbloquear la verdad de su pasado y el futuro de su mundo. Secuela de Divergente (2014).
+ Direcci�n : Robert Schwentke
+ Gui�n : Brian Duffield, Akiva Goldsman, Veronica Roth, Mark Bomback
+ A�o : 2015
+</info>
+ </item>
+
+ 
+ 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ruj831i62an4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>Survivor</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/XtvR1aSph7X3wqrE2PY66IPzVi.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/tGxBYYSKSmBUpjSHDpRelsbNeBy.jpg</fanart>
+     <genre>Crimen, Suspense, Acci�n</genre>
+ 
+     <info>Una mujer norteamericana trabaja en Londres para el departamento de estado de EEUU. Cuando las oficinas son bombardeadas, ella resulta ser la �nica superviviente, encontr�ndose adem�s en medio de una trama conspiradora que la hace sospechosa.
+ Direcci�n : James McTeigue
+ Gui�n : Philip Shelby
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4hpzrh82ubbk-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Los mercenarios 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ujqpSA0qOzab17zbPfFvszkSAQr.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/xCfHomVxzeAmbZlbiZbpp2igIsl.jpg</fanart>
+     <genre>Acci�n, Aventura, Suspense</genre>
+ 
+     <info>Barney Ross, Lee Christmas, Yin Yang, Gunner Jensen, Toll Road, Hale Caesar y Billy, un nuevo colega, se vuelven a reunir cuando el se�or Church les encarga un trabajo aparentemente sencillo y muy lucrativo. Sin embargo, el plan se tuerce cuando un peligroso terrorista llamado Villain les tiende una emboscada. Entonces su �nico deseo ser� vengarse. As� es como van sembrando a su paso la destrucci�n y el caos entre sus enemigos hasta que se encuentran con una amenaza inesperada: cinco toneladas de plutonio apto para uso militar, una cantidad m�s que suficiente para cambiar el equilibrio de poder en el mundo.
+ Direcci�n : Simon West
+ Gui�n : Richard Wenk, Sylvester Stallone, Ken Kaufman, David Agosto
+ A�o : 2012
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-odrkistic7lz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Los mercenarios 3</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vmMwwHA1pbVjSfRwlg2XpNonNRq.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/5ldMfEYNk0fea8QQ0mjyrksIr1M.jpg</fanart>
+     <genre>Acci�n, Aventura, Suspense</genre>
+ 
+     <info>El grupo de los mercenarios, dirigidos por Barney, durante una misi�n en �frica, se encuentran frente a frente con Stonebanks, el otro miembro fundador del grupo, al que Barney cre�a muerto. Stonebanks es ahora un rico y despiadado traficante de armas que el gobierno de los EEUU quiere capturar con vida para llevarlo al tribunal internacional de la Haya.
+ Direcci�n : Patrick Hughes
+ Gui�n : Sylvester Stallone, Creighton Rothenberger, Katrin Benedikt
+ A�o : 2014
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nravtqvv29am-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Novatos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mqBtZpIiOn2rJOycQk5onwPPdow.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bokkbnvLLYsut9pVlnKeZavGinJ.jpg</fanart>
+     <genre>Drama</genre>
+
+     <info>Novatos es una pel�cula que aborda el tema de las novatadas en los Colegios Mayores de las universidades espa�olas desde un punto de vista realista y serio.  Se quiere mostrar el problema de la existencia de un secreto a voces y el total desconocimiento que existe en la sociedad espa�ola
+ Direcci�n : Pablo Arag��s
+ Gui�n : Pablo Arag��s
+ A�o : 2015
+</info>
+ </item>
+
+
+  
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zsa68o3t5tir-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Resident Evil 2: Apocalipsis</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cPT75HUyf7ZHcKp6mBYqr3kaArL.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/HiQeRDggI5EYLawYNHRJvB026S.jpg</fanart>
+     <genre>Terror, Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>Un virus mortal ha sido liberado sobre la poblaci�n de Raccoon City. Alice (Milla Jovovich), una de las supervivientes del desastre bioqu�mico, se encuentra en el coraz�n de esta devastada ciudad. Sometida a experimentos que han alterado su gen�tica, ahora posee fuerza, sentidos y destreza sobrehumana. Estas habilidades, y m�s, ser�n las que deba utilizar quien quiera sobrevivir en esta nueva aventura. Junto con otros supervivientes deber� escapar de la cada vez m�s peligrosa Raccoon City. Para alcanzar su meta necesitar�n luchar contra las fuerzas de la Umbrella Corporation, las violentas criaturas de bioingenier�a creadas en sus laboratorios, los zombies que plagan la ciudad y, finalmente, enfrentarse a la m�s colosal y mortal de estas creaciones: Nemesis.
+ Direcci�n : Alexander Witt
+ Gui�n : Paul W.S. Anderson
+ A�o : 2004
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ocz48fopzm5m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Resident Evil: Degeneraci�n</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vcduy3H9RelaER3F7jn7OGby1ws.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/imz5ZodpQFYR9kbEmuNiJ5xvt2Q.jpg</fanart>
+     <genre>Animaci�n, Terror, Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>El incidente Umbrella que surgi� en Raccoon City ha terminado con la erradicaci�n de un virus letal mediante un misil nuclear lanzado por el gobierno, Umbrella se ha disuelto y ha dejado de existir. Han pasado 7 a�os, nos encontramos en un aeropuerto cualquiera de USA, estamos en oto�o� un zombi descontrolado acaba con el pacifico d�a atacando a todo lo que se mueve. El infierno que se hab�a extinguido resurge nuevamente de manera inesperada. Pel�cula de animaci�n digital basada en el popular saga de videojuegos de Capcom, Resident Evil. Est� protagonizada por Claire Redfield y Le�n S. Kennedy y se desarrolla siete a�os despu�s del incidente de Racoon City narrado en Resident Evil 2.
+ Direcci�n : Makoto Kamiya
+ Gui�n : Shotaro Suga
+ A�o : 2008
+</info>
+ </item>
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bcdy5cy4tt91-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Ask Me Anything</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/88WgsVRMaabUhqx3U3BZIZQyWki.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oqUQNj4Jpvj4XTfTZp0OHFUXE9B.jpg</fanart>
+     <genre>Drama, Misterio, Suspense</genre>
+ 
+     <info>The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
+ Direcci�n : Allison Burnett
+ Gui�n : Allison Burnett
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8j7dbc4urtht-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Dragon Ball Z: La Resurrecci�n de Freezer</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/w6vPLqaW3EMHyS4Q6YOu8kn9GbC.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/j98rDMOFD7iWdFV4JMFinq3UMj2.jpg</fanart>
+     <genre>Animaci�n, Fantas�a, Acci�n, Aventura</genre>
+ 
+     <info>Despu�s de que Bills, el Dios de la destrucci�n, decidiera no destruir la Tierra, se vive una gran �poca de paz. Hasta que Sorbet y Tagoma, antiguos miembros �lite de la armada de Freezer, llegan a la Tierra con el objetivo de revivir a su l�der por medio de las Bolas de Drag�n. Su deseo es concedido y ahora Freezer planea su venganza en contra de los Saiyajin. La historia hace que una gran oleada de hombres bajo el mando de Freezer lo acompa�e.
+ Direcci�n : Tadayoshi Yamamuro
+ Gui�n : Akira Toriyama
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-dtbeb57h5nm6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>El s�ptimo enanito</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mXdEvRzVrgOoEp4iTLuTN7KlLy9.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/z1cR7usEX9YjbD5f6NE2DkPcu6R.jpg</fanart>
+     <genre>Animaci�n, Fantas�a</genre>
+ 
+     <info>El s�ptimo enanito, Bubi, viaja en el tiempo hacia el futuro junto a sus compa�eros enanos, para detener una maldici�n causada por la Reina de Hielo. (FILMAFFINITY)
+ Direcci�n : Boris Aljinovic
+ Gui�n : Bernd Eilert, Sven Unterwaldt Jr.
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nn4bxdenau7v-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>El hijo bastardo de Dios</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1dRtOchtIFx8AWGFmzcmEXnMxS6.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/fR4mjGH3GyaerVz4kzB6qPG2COJ.jpg</fanart>
+     <genre>Crimen, Drama</genre>
+ 
+     <info>Producci�n espa�ola que gira alrededor de la vida de Andr�s Sarmiento, un funcionario al que las circunstancias de su vida lo han convertido en un ser solitario e insensible, por lo que decide buscar la felicidad y, para ello, urde un siniestro plan.
+ Direcci�n : Mart�n Garrido Ramis
+ Gui�n : Mart�n Garrido Ramis
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nxyfz17dl4lo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Fotograf�a de un asesinato</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hNa0ZoTtDC6bXrJfOy1fJDwzTWw.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dSZTp6hO9LlmADaFhe2uJA0QBk0.jpg</fanart>
+     
+ 
+     <info>Jodi, es  una joven de 18 a�os que ha sufrido un ataque traum�tico en su casa. Se muda junto a su madre a una nueva zona residencial para ayudar a su recuperaci�n.
+ Direcci�n : Doug Campbell
+ Gui�n : Doug Campbell
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-64bfldjdfuir-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Viaje a Sils Maria</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nECV4RGVWkagJsQA4HWqmN4Ltju.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/m5Uw8NYatJvCSMw5hwuZdbHpS3J.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Maria Enders (Binoche), 20 a�os despu�s de hacerse famosa por su interpretaci�n de Sigrid, el personaje que fascin� a Helena y la llev� al suicidio, deber� decidir si, ahora que se encuentra en la cima de su carrera profesional, quiere volver a aceptar un papel en la obra, esta vez interpretando a Helena.
+ Direcci�n : Olivier Assayas
+ Gui�n : Olivier Assayas
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1050p8x6t5q9-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>El �ltimo lobo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/leh3zLHDVn9L9hiV9fBuvvOWgLo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vJDH7B7GQTybXQ5sln4VT1ImuuV.jpg</fanart>
+     <genre>Aventura, Drama</genre>
+
+     <info>1969. Chen Zhen es un joven estudiante de Pek�n al que env�an a Mongolia Interior para educar a una tribu de pastores n�madas. Pero el que realmente aprende es Chen: sobre la vida en esa tierra infinita y hostil, la libertad y la responsabilidad, y la criatura m�s temida y reverenciada de esos lugares, el lobo.  Sin emabrgo, la relaci�n de atracci�n existente entre esas criaturas complejas y casi m�sticas con el ser humano se ve amenazada cuando un oficial del gobierno central decide por todos los medios eliminar los lobos de esta regi�n.
+ Direcci�n : Jean-Jacques Annaud
+ Gui�n : John Collee, Lu Wei, Jean-Jacques Annaud
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bakmvl6yq7iy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Hotel Transilvania 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oTbKPPmb7qb6kOIO4I13LLZ9r5A.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
+     <genre>Comedia, Animaci�n</genre>
+ 
+     <info>Secuela de la pel�cula de animaci�n &#x27;Hotel Transylvania&#x27; que se estrenar� a mediados de 2015. Con gui�n de los hermanos Dan y Kevin Hageman y Genndy Tartakovsky, director de la primear pel�cula que no repetir� a los mandos, por lo que a�n se desconoce quien ser� el encargado de dirigirla. Se prev� que los mismos actores que pusieron voz a los personajes de la primera pel�cula repitan en sus puestos: Adam Sandler (&#x27;Ni�os grandes 2&#x27;), Selena Gomez (&#x27;Spring Breakers&#x27;), Andy Samberg (&#x27;Ese es mi hijo&#x27;), Kevin James (&#x27;Peso pesado&#x27;) o Steve Buscemi (&#x27;Boardwalk Empire&#x27;).
+ Direcci�n : Hotel Transilvania 2
+ Gui�n : Dan Hageman, Kevin Hageman
+ A�o : 2015
+</info>
+ </item>
+
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-o2no9cnmew51-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Peque�o ayudante de Santa Claus</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gsJU1uwqMB3jCWx7260WTYtSp5k.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dS5sBVIKKGNBJR323IbaFWfSV7J.jpg</fanart>
+     <genre>Familia</genre>
+ 
+     <info>Despu�s de ser despedido de su trabajo, un charlat�n hombre de negocios (The Miz) se prepara para un concurso elfo para convertirse en el pr�ximo segundo al mando de Santa. A trav�s de una serie de ejercicios de entrenamiento riguroso para prepararse, The Miz y otro elfo aspirante (Paige) se enfrentan cara a cara con la esperanza de convertirse en el peque�o ayudante de Santa.
+ Direcci�n : Gil Junger
+ Gui�n : Bennett Yellin, James Robert Johnston
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-y6tcgr72eg91-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>La curva de la muerte</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7ylei4CzaA8XFTir1ocWxVzHWTQ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/9GlhSzEogubsUfsToqpLmogiBJU.jpg</fanart>
+     <genre>Terror, Suspense</genre>
+ 
+     <info>Una joven a punto de casarse estrella su coche deliberadamente en una carretera desierta, tratando de huir de un autoestopista encantador que resulta ser un verdadero depredador, Cuando su plan sale mal y queda atrapada en su veh�culo volcado, se defiende como puede contra el terror�fico psic�pata... hasta que descubre la estremecedora verdad que aviva hasta l�mites incre�bles su instinto por sobrevivir.
+ Direcci�n : Iain Softley
+ Gui�n : Kimberly Lofstrom Johnson, Lee Patterson
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-owblz7ggm1gw-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Dead Rising: Watchtower</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ysTty2OpMud8RTda60yvf6AhFuj.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/puZVaJYsgoxC2Ek7tiA6UK0FodA.jpg</fanart>
+     <genre>Terror</genre>
+ 
+     <info>La historia nos traslada a un mundo infectado por zombis y como un grupo de personas tratar� de hacer frente a la infecci�n buscando el origen del brote. Sin embargo, todo hace indicar que una conspiraci�n del gobierno est� detr�s de todo. Adaptaci�n al cine de la serie de videojuegos de Capcom.
+ Direcci�n : Zach Lipovsky
+ Gui�n : Tim Carter
+ A�o : 2015
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-c3sxieq2w1b4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>ghost of goodnight Lane</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/44T9uPS7awyVXm3HTb1hyaMNrBD.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aG8b0Ghf28CCPbjX7SAgvozHfns.jpg</fanart>
+     <genre>Comedia, Terror</genre>
+ 
+     <info>The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
+ Direcci�n : 
+ Gui�n : 
+ A�o : Tran
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-1j6r2zlcqvn3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Road Wars</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/n0gbMzfMSWRg9Mja8J3XAxc1vUC.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/pnm0dnlJ3v9z8m35qxzMx2pQLyI.jpg</fanart>
+     <genre>Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>Cuando un amn�sico se despierta en un mundo post apocal�ptica asolado por un virus tipo rabia, debe unirse con un peque�o grupo de supervivientes.
+ Direcci�n : Mark Atkins
+ Gui�n : Mark Atkins
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-na05n0n8e9us-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Los �ltimos d�as en Marte</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cyrXI2U7hOpiAhUADvIldRqSaZl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eerkyCF9nRXQK8tkwbuHAT0vDI7.jpg</fanart>
+     <genre>Ciencia ficci�n, Suspense, Terror</genre>
+ 
+     <info>Mientras la nave que los relevar� de sus operaciones se acerca, un grupo de astronautas exploradores se topan con un descubrimiento: un grupo de muestras rocosas revelan evidencias microsc�picas de vida. Unas horas antes de abandonar el planeta, dos de los astronautas regresan al cavernoso valle donde hallaron las muestras para reunir m�s hallazgos. Pero uno de ellos sufre un accidente... y su cuerpo es ocupado por la misteriosa y terror�fica forma de vida que acaban de descubrir.
+ Direcci�n : Ruairi Robinson
+ Gui�n : Clive Dawson, Sydney J. Bounds
+ A�o : 2013
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-r2akjbbx8ou5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Un d�a perfecto</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/87nBmQAI0vm7m9d9Zyjy4a2nSeB.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/uUKaaTUAsQKQAQM6Nmt7ujKNbns.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Sophie (M�lanie Thierry) quiere ayudar a la gente, Mambr� (Benicio del Toro) quiere volver a casa, Katya (Olga Kurylenko) quiso una vez a Mambr�. Damir (Fedja Stukan) quiere que la guerra termine, Nikola (Eldar Residovic) quiere una pelota, B (Tim Robbins) no sabe lo que quiere. Pero lo que quieres pocas veces coincide con lo que necesitas. Un grupo de cooperantes que trata de sacar un cad�ver de un pozo en una zona de conflicto. Alguien lo ha tirado dentro para corromper el agua y dejar sin abastecimiento a las poblaciones cercanas. Pero la tarea m�s simple se convierte aqu� en una misi�n imposible, en la que el verdadero enemigo quiz� sea la irracionalidad. Los cooperantes recorren el delirante paisaje b�lico tratando de resolver la situaci�n, como cobayas en un laberinto.
+ Direcci�n : Fernando Le�n de Aranoa
+ Gui�n : Fernando Le�n de Aranoa
+ A�o : 2015
+</info>
+ </item>
+
+
+ 
+
+
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-f2apn4fshoku-740x360.html</page>	 <referer>http://streamin.to</referer></regex>    <title>Emboscada</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v1zSNukbdPJnjjananNSAPAxrAl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/sovzYO2W6g2128RwQ6XzY0cOkWn.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama</genre>
+  
+     <info>En la fren�tica Los Angeles, el agente Maxwell consigue acercarse lo suficiente a una operaci�n de contrabando de coca�na capitaneada por el peligroso criminal Vincent Camastra. Cuando la agente Beberly es descubierta por los traficantes, la operaci�n para �l se convierte en algo personal.
+ Direcci�n : Giorgio Serafini
+ Gui�n : Agustin
+ A�o : 2013
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-dkdr5luy7juf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Vengadores: La era de Ultr�n</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hggjNxXc6XfxdHMjkvHYKfvJCMM.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/570qhjGZmGPrBGnfx70jcwIuBr4.jpg</fanart>
+     <genre>Acci�n</genre>
+  
+     <info>Cuando Tony Stark intenta reactivar un programa ca�do en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los h�roes m�s poderosos de la Tierra, incluyendo a Iron Man, Capit�n Am�rica, Thor, El Incre�ble Hulk, Viuda Negra y Ojo de Halc�n, tendr�n que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponder� a Los Vengadores detener sus terribles planes, que junto a inc�modas alianzas llevar�n a una inesperada acci�n que allanar� el camino para una �pica y �nica aventura.
+ Direcci�n : Joss Whedon
+ Gui�n : Joss Whedon
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-b3z2hpc74a41-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Echoes Of War</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gV0mSDwe4TXEJ4GOn4UeHr84H2o.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wISN563BkgXXAdrFL1daou7AiNi.jpg</fanart>
+     <genre>Drama, Suspense, Western</genre>
+  
+     <info>La trama del film gira en torno a un veterano de la guerra civil que vuelve a la campi�a, y se ve en medio de un conflicto entre su familia y entre un tosco ranchero de ganado que los atormenta.
+ Direcci�n : Kane Senes
+ Gui�n : Kane Senes, John Chriss
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8s0zfdsbm3h6-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Cuatro fant�sticos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dPPByy3xtGzXfZZnHgpLNRlmRYp.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/3Kgu3ys6W6UZWWFty7rlTWgST63.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n</genre>
+  
+     <info>Cuatro j�venes inadaptados se teletransportan a un peligroso universo alternativo, lo que les confiere extra�os poderes. Cuando sus vidas cambian de forma dr�stica e irremediable, deben aprender a controlar sus nuevas habilidades y trabajar en equipo para salvar al mundo de un viejo conocido que ahora se ha convertido en un temible enemigo. Adaptaci�n contempor�nea del equipo de superh�roes de Marvel.
+ Direcci�n : Josh Trank
+ Gui�n : Jeremy Slater, Josh Trank, Simon Kinberg
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+  
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-de4833avdku8-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Misi�n imposible 5: Naci�n secreta</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8WkkLtF9Ut5onLym3m8TI0fjWEA.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vZMSji6u1Kfg5TcWWi4IAzfqXfC.jpg</fanart>
+     <genre>Acci�n, Aventura, Suspense</genre>
+  
+     <info>Con la FMI disuelta y Ethan Hunt (Tom Cruise) abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados. Estos grupos est�n empe�ados en crear un nuevo orden mundial mediante una serie de ataques terroristas cada vez m�s graves. Ethan re�ne a su equipo y une sus fuerzas con la agente brit�nica renegada Ilsa Faust (Rebecca Ferguson), quien puede que sea o no miembro de esta naci�n secreta, mientras el grupo se va enfrentando a su misi�n m�s imposible hasta la fecha... Quinta entrega de la saga Misi�n Imposible.
+ Direcci�n : Christopher McQuarrie
+ Gui�n : Christopher McQuarrie, Drew Pearce
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-2jzaej27ajmc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Adult World</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ciCIeuSvlPviDgobIjEQQE4Kcxn.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qaiS9490X3Ug9arJ41xBD5dhzgF.jpg</fanart>
+     <genre>Comedia</genre>
+  
+     <info>Un reci�n graduado de la universidad que cree que est� destinado a ser un gran poeta termina trabajando para una tienda de libros para adultos.
+ Direcci�n : Scott Coffey
+ Gui�n : Scott Coffey
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ia9owaus99n0-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>No Hay Lagrimas Para Los Muertos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pxVfZr1R1QZ8qdFtEqltMWwz4bF.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eNF7rXL1kuiiwsLzltewXwGKMJT.jpg</fanart>
+     <genre>Acci�n, Suspense, Foreign</genre>
+  
+     <info>No es habitual que Gon, un experimentado asesino a sueldo, cometa un error; pero tras matar por accidente a una ni�a, le encargan eliminar tambi�n a la madre, una mujer envuelta en una peligrosa conspiraci�n. Cuando Gon se enamore de su objetivo, su profesionalidad se ver� terriblemente comprometida.
+ Direcci�n : Lee Jeong-Beom
+ Gui�n : Lee Jeong-Beom
+ A�o : 2014
+</info>
+ </item>
+
+ 
+
+ 
+
+ 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ytli0duw2pkf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>El incre�ble Hulk</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/b5RJqUVaCvqj3ScEKrB9pp21asC.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/cOUnJk61xWbhosPMrMWZmvag1NS.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n</genre>
+  
+     <info>El cient�fico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un ant�doto que le permita librarse de su Alter Ego. Perseguido por el ej�rcito y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. As� que se decide a volver a la civilizaci�n, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiaci�n que convirti� a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condici�n, mientras que la ciudad de Nueva York se convierte en el escenario de la �ltima batalla entre las dos criaturas m�s poderosas que jam�s han pisado la Tierra.
+ Direcci�n : Louis Leterrier
+ Gui�n : Zak Penn
+ A�o : 2008
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-d2srdeohshbs-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Caza al asesino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jCRQlI1i5OCi3YrzBiG0qllCmSj.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/oUsa0d6Dd9VKbotmfAxuiZHbPtr.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama</genre>
+  
+     <info>Jim Terrier es una esp�a internacional que ha sido traicionado por la propia organizaci�n para la que trabajaba, raz�n por la que decide dejar atr�s su pasado y empezar una nueva vida cas�ndose con su novia. Pero sus planes se truncar�n cuando se d� cuenta de que sus jefes y antiguos compa�eros van tras �l y no parar�n hasta verlo muerto.
+ Direcci�n : Pierre Morel
+ Gui�n : Jean-Patrick Manchette, Don MacPherson, Pete Travis, Sean Penn
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-njisjknmk3sj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>            <title>The Lovers</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2tszioaFbawMOkwOXin1ig7oJkP.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/txKYS7FU9Q1gZKcmu4pozxsMccg.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n, Romance</genre>
+  
+     <info>Jay Fennel (Josh Hartnett), un intr�pido arque�logo, cae en coma despu�s de intentar salvar la vida de su esposa (Tamsin Egerton). En ese estado, se traslada mentalmente a la India, al a�o 1778. All�, convertido en un joven capit�n llamado James Stewart, vivir� peligrosas aventuras y un amor imposible por el que tendr� que luchar. Atrapado en el tiempo y el espacio, s�lo el poder de un anillo puede salvarlo de su incierto futuro. (FILMAFFINITY)
+ Direcci�n : Roland Joff�
+ Gui�n : Ajey Jhankar
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-s291f6x056me-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Los vengadores</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rPyWt7IPREDWnE1U8V9iMFzeh0p.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg</fanart>
+     <genre>Ciencia ficci�n, Acci�n, Aventura</genre>
+  
+     <info>Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nick Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de SHIELD, necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres. As� empieza una b�squeda por todo el mundo para reclutar personal.
+ Direcci�n : Joss Whedon
+ Gui�n : Joss Whedon, Zak Penn, Stan Lee
+ A�o : 2012
+</info>
+ </item>
+
+ 
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-13skmy7y5kcf-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Iron Man 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zJ2eK7fehqFSQ2w5JlQIF0OJP9q.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jxdSxqAFrdioKgXwgTs5Qfbazjq.jpg</fanart>
+     <genre>Aventura, Acci�n, Ciencia ficci�n</genre>
+  
+     <info>El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superh�roe enmascarado. A pesar de las presiones del gobierno, la prensa y la opini�n p�blica para que comparta su tecnolog�a con el ej�rcito, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa informaci�n caiga en en manos de irresponsables. Con Pepper Potts (Gwyneth Paltrow) y James �Rhodey� Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.
+ Direcci�n : Jon Favreau
+ Gui�n : Justin Theroux
+ A�o : 2010
+</info>
+ </item>
+
+
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-e8aq1yxrhghm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                  <title>Adultos a la fuerza</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4StONAgxFEMCTTW6IsdkqLeo3RN.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/a3I7ovftT8MVXMYm7Htq2QtERNI.jpg</fanart>
+     <genre>Comedia, Drama</genre>
+ 
+     <info>Un joven y narcisista empresario sufre un accidente en la v�spera del gran lanzamiento de su empresa. Ante el nuevo desorden de su vida, decide marcharse de Manhattan para trasladarse a las afueras con su hermana embarazada, su marido y su sobrino de tres a�os para encargarse de cuidarlo.
+ Direcci�n : Ross Katz
+ Gui�n : Jeff Cox, Liz Flahive, Nick Kroll
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mdp80fnkmqz8-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                 <title>American Beauty</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fbkevWYfyNZrT46ROmw0DyHC0RA.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/z5J18ByLeOZ68iORfMXmxeFuwyL.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Divertida, inquietante y sorprendente incursi�n en la Am�rica suburbana a trav�s de las vidas de Lester y Carolyn, una pareja perteneciente a la clase medio-alta cuyo matrimonio -y cuyas vidas- lentamente se deshacen. Carolyn odia a su marido, su hija lo desprecia y su jefe est� a punto de despedirlo. As� que Lester decide cambiar algunas cosas en su vida; a medida que va siendo m�s libre, consigue ser m�s feliz, lo que enfurece m�s a su esposa y a su hija.
+ Direcci�n : Sam Mendes
+ Gui�n : Alan Ball
+ A�o : 1999
+</info>
+ </item>
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pqhb1o6fybk4-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Deseo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dHZiAp0FsxQCHrZX2VB3wkGAp9c.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Drama</genre>
+ 
+     <info>Todo empieza cuando un marinero y una prostituta adolescente se encuentran por casualidad. Ese es el comienzo de Deseo, y a partir de ah� la cinta nos muestra a una serie de personajes t�picos, propios todos de la sociedad mexicana.  La pel�cula en realidad es una cr�tica mordaz a la sociedad de M�xico, que est� llena de prejuicios raciales y de clase, aunque esto creo que es algo com�n a la mayor�a de las sociedades del planeta.  Lo que la cinta nos quiere explicar es c�mo debido a esos prejuicios el amor es casi imposible en M�xico y lo que hay es s�lo sexo sin amor, que est� bien para un rato, pero que no es lo mejor para siempre.  A pesar del halo de modernidad, en la cinta vemos como desde el siglo XIX hasta nuestros d�as poco ha cambiado en M�xico, en donde la sociedad sigue siendo demasiado puritana.
+ Direcci�n : Antonio Zavala Kugler
+ Gui�n : Antonio Zavala Kugler, Arthur Schnitzler
+ A�o : 2012
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-eymyz17uif7l-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                      http://95.211.213.1:8777/i/01/01078/eymyz17uif7l_t.jpg</fanart><title>LAT0180www peliculasmega-vsacaba com</title></item>
+[624x336, 01:45:24]
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aazp5lip5lfh-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Pago justo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/prVuOdnpCShrMXYb1TbDlZh5qJ2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/vnUfZhH6Imc1f3CwPYvjoJ3EN9s.jpg</fanart>
+     <genre>Comedia, Drama, Historia</genre>
+ 
+     <info>Una sola mujer puede marcar la diferencia. En 1968, para protestar por la diferencia de sueldos entre ellas y los hombres de la empresa, casi 200 trabajadoras de la Ford Dagenham se declararon en huelga. Este hecho hist�rico, que acab� teniendo como resultado la Equal Pay Act, es en el que se basa Pago justo.  Del director de El jard�n de la alegr�a y Las chicas del calendario llega Pago justo, una pel�cula brit�nica basada en una historia real sobre la lucha de las mujeres por la igualdad de salarios en los a�os 60. Estuvo nominada a cuatro premios BAFTA, incluyendo Mejor Pel�cula Brit�nica y Mejor Actriz Secundaria.
+ Direcci�n : Pago justo
+ Gui�n : Nigel Cole, William Ivory
+ A�o : 2010
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sitfxaj9hzke-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>�Upsss! �D�nde est� No�...?</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uwACQiii7vIy93d8cUmg5bmq9SQ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/aVcpJiLFpvPkoHgE54R4FaI40If.jpg</fanart>
+     <genre>Animaci�n</genre>
+ 
+     <info>Es el fin del mundo . Un diluvio llega. Por suerte para Dave y su hijo Finny, un par de torpes Nestrians, se ha construido  un Arca para salvar a todos los animales. Pero resulta que no se admiten Nestrians. Furtivamente a bordo con la ayuda involuntaria de Hazel y su hija Leah , dos Grymps , creen que est�n a salvo. Finny y Leah tienen que intentar sobrevivir a la inundaci�n y a los depredadores hambrientos y tratar de llegar a la cima de una monta�a , mientras que Dave y Hazel deben dejar de lado sus diferencias.
+ Direcci�n : Toby Genkel
+ Gui�n : Richie Conroy, Toby Genkel, Mark Hodkinson, Marteinn Thorisson
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bvipdbzr351n-740x360.html</page>	 <referer>http://streamin.to</referer></regex>             <title>Pan</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dMCEAvvLj91YLZ30irqv8gURWD1.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/6Ym6bgfhvpgQS5Sg8kKnfW1hX7P.jpg</fanart>
+     <genre>Aventura, Fantas�a, Familia</genre>
+ 
+     <info>En esta ocasi�n la historia sufrir� un vuelco importante, pues ser� Barbanegra quien capitanear� un barco volador que secuestra a los hu�rfanos de guerra, entre ellos Peter Pan (Miller), mientras que el Capit�n Garfio (Garrett Hedlund) es descrito como un apuesto Indiana Jones. (PepeCine)
+ Direcci�n : Joe Wright
+ Gui�n : Jason Fuchs
+ A�o : Viaj
+</info>
+ </item>
+
+ 
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wjxbf0ahj4jj-740x360.html</page>	 <referer>http://streamin.to</referer></regex>   <title>Spring</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2lgCTUFLEJADL8fJ4kxKawt7yL0.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dlh31xeFcPcf8k4u5l1j9BSYQ0J.jpg</fanart>
+     <genre>Terror, Romance, Ciencia ficci�n</genre>
+ 
+     <info>Un joven estadounidense viaja a Italia, donde conoce a Louise, con la que inicia un intenso romance. Sin embargo, la chica oculta un secreto sobrenatural que podr�a destruir la relaci�n.
+ Direcci�n : Aaron Moorhead
+ Gui�n : Justin Benson, Justin Benson
+ A�o : 2015
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-sc8sjdc7oh6b-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Giro inesperado</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bcGimgI8fGUMYNsfTgA6wtxB1c8.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/p0TQPs9GIXx8qXzfYMY0FrdBzxx.jpg</fanart>
+     <genre>Acci�n, Comedia, Suspense</genre>
+ 
+     <info>Comedia de acci�n centrada en un ch�fer (Patrick Wilson, &#x27;Watchmen&#x27;) que, debido a su obsesiva afici�n por el juego, se ve amenazado por un peligroso corredor de apuestas al que le debe una cuantiosa suma de dinero. Con el fin de saldarlas, acepta un extra�o trabajo que consiste en llevar en limusina a un multimillonario cliente para que venda su agenda de contactos criminales. El conductor, desesperado por ganar dinero, har� todo lo que su viajero le mande en lo que ser� una de las noches m�s raras de su vida.
+ Direcci�n : Joe Carnahan
+ Gui�n : Joe Carnahan, Jerry Corley, Rob Rose
+ A�o : Stre
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-jmgs19ksv7z2-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Castores zombies</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eCIiPLxaM3COlfjRbdZo4reWT7r.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/d0JF30sdismMh91IGrqJrwOVZTP.jpg</fanart>
+     <genre>Acci�n, Comedia, Terror</genre>
+ 
+     <info>Un grupo de j�venes pretende pasar un fin de semana de diversi�n, alcohol y sexo. Sin embargo, su plan de diversi�n se truncar� al cruzarse en su camino un grupo de castores zombis que tratar� de acabar con ellos.
+ Direcci�n : Jordan Rubin
+ Gui�n : Jordan Rubin, Al Kaplan, Jon Kaplan
+ A�o : 2014
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-yjvwt5ycqu2w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Los 6 Ridiculos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k77xcsBtZMq9zIlTVQV7UBemzXD.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jrEbYGtEEv981chqVvYyIU9ni6K.jpg</fanart>
+     <genre>Comedia, Western</genre>
+ 
+     <info>Cuando reaparece su padre, un forajido desaparecido durante muchos a�os, Tommy Stockburn y sus cinco hermanos emprenden un viaje lleno de aventuras por el Oeste.
+ Direcci�n : Frank Coraci
+ Gui�n : Tim Herlihy, Adam Sandler
+ A�o : 2015
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-du9xv3o9fudn-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>Hotel Transilvania 2 - Subtitulada</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oTbKPPmb7qb6kOIO4I13LLZ9r5A.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
+     <genre>Comedia, Animaci�n</genre>
+ 
+     <info>Secuela de la pel�cula de animaci�n &#x27;Hotel Transylvania&#x27; que se estrenar� a mediados de 2015. Con gui�n de los hermanos Dan y Kevin Hageman y Genndy Tartakovsky, director de la primear pel�cula que no repetir� a los mandos, por lo que a�n se desconoce quien ser� el encargado de dirigirla. Se prev� que los mismos actores que pusieron voz a los personajes de la primera pel�cula repitan en sus puestos: Adam Sandler (&#x27;Ni�os grandes 2&#x27;), Selena Gomez (&#x27;Spring Breakers&#x27;), Andy Samberg (&#x27;Ese es mi hijo&#x27;), Kevin James (&#x27;Peso pesado&#x27;) o Steve Buscemi (&#x27;Boardwalk Empire&#x27;).
+ Direcci�n : Hotel Transilvania 2
+ Gui�n : Dan Hageman, Kevin Hageman
+ A�o : 2015
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-b18l0hwdx73d-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Un gallo con muchos Huevos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cz3Kb6Xa1q0uCrsTIRDS7fYOZyw.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/unM5a0Nokl3iADeXcriiQs6ki9o.jpg</fanart>
+     <genre>Animaci�n</genre>
+ 
+     <info>Toto es un peque�o pollito que ha nacido en un rancho muy bonito y con mucha tranquilidad. Despu�s de que pase un tiempo, Toto se convertir� en un joven gallito, dispuesto a comerse el mundo. Un ranchero malvado y muy ambicioso conseguir� enga�ar a la due�a del rancho donde vive, para que la se�ora apueste su propiedad como premio, la disputa se arreglar� con una pelea de gallos. La ranchera solamente tendr� como �ltima esperanza a Toto, teniendo que entrenarse duramente para poder vencer al gallo m�s peligroso y violento de todos.
+ Direcci�n : Gabriel Riva Palacio Alatriste
+ Gui�n : Gabriel Riva Palacio Alatriste
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-pkrxkf0rks1z-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>7500</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8fJBq78VRKoV9e3WE0H2xfmQm2B.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/cobq7rVabMhF7L3tDQM9PO5pSld.jpg</fanart>
+     <genre>Terror, Misterio, Suspense</genre>
+ 
+     <info>Nueva pel�cula americana de Shimizu. Producida por Roy Lee (The Grudge) y Steven Schneider (Insidious), centrar� su acci�n en un vuelo a trav�s del Pacifico y en como una especie de fuerza sobrenatural le afectar�.
+ Direcci�n : Takashi Shimizu
+ Gui�n : Craig Rosenberg
+ A�o : 2014
+</info>
+ </item>
+
+ 
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-cwiwvdl1jine-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Nymphomaniac: Volumen I</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5bZHtHL2HTa4u4pXQwtqEBV37Y9.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/t9MElpSTsqNBttwntdevOgQuJDe.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Historia de una ninf�mana contada por ella misma. Una fr�a noche invernal, un viejo solter�n (Stellan Skarsg�rd) encuentra en un callej�n a una joven (Charlotte Gainsbourg) herida y casi inconsciente. Despu�s de recogerla y cuidarla, siente curiosidad por saber c�mo pudo haber llegado esa mujer a semejante situaci�n; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones. Para su estreno comercial se dividir� en dos partes. Hay una versi�n completa de cinco horas y media que s�lo se ver� en ciertos actos culturales.
+ Direcci�n : Lars von Trier
+ Gui�n : Lars von Trier
+ A�o : 2013
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ykh775nihf7j-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Nymphomaniac: Volumen II</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jOEzlmcylTNpgBujt3h2f9cosdm.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/smqBCtBN49ErfUiJFyXDUtjjxh3.jpg</fanart>
+     <genre>Drama, Misterio</genre>
+ 
+     <info>Historia de una ninf�mana contada por ella misma. Una fr�a noche invernal, un viejo solter�n encuentra en un callej�n a una joven herida y casi inconsciente. Despu�s de recogerla y cuidarla, siente curiosidad por saber c�mo pudo haber llegado a semejante situaci�n; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones.
+ Direcci�n : Lars von Trier
+ Gui�n : Lars von Trier
+ A�o : 2013
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zd5ojgpk5193-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Kill Me Three Times</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zqTlUUBlVZTzVMYUnJQve0kJc3o.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/8YrFY8zcXYx9y89Zn9OS2E89CZm.jpg</fanart>
+     <genre>Comedia, Suspense</genre>
+ 
+     <info>El film nos llevar� hasta el lugar conocido como Eagle�s Nest, un pueblo australiano de surfing donde una joven mujer es el hilo central de tres historias de asesinato, chantaje y venganza.
+ Direcci�n : Kriv Stenders
+ Gui�n : James McFarland
+ A�o : 2015
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zusbrrh3xgxr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Amor sin cita previa</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/y7C1EQ9zxJ3mlaQeRztw3NVw41P.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/tOVaVqBA7y46Y2wJeFfrelRduQC.jpg</fanart>
+     <genre>Romance, Comedia</genre>
+ 
+     <info>Nancy es una mujer de 34 a�os que permanece soltera y est� cansada de lo que le recomiendan sus amigas, por muy buenas intenciones que tengan. Cuando viaja a Londres para celebrar el aniversario de sus padres, Nancy se cruza con Jack, un divorciado de 40 a�os que cree que ella es su cita a ciegas de 24 a�os. A partir de aqu� surgir� una ca�tica noche que ninguno de los dos olvidar�.
+ Direcci�n : Ben Palmer
+ Gui�n : Tess Morris
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wb7zwqfh0ner-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                  <title>We Are Your Friends</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/accc6f6h3Xi8kURvYpPoATOsm2Z.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zCRv7bfGAOYkvbyG0rRC8olW22o.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>La pel�cula sigue a un DJ joven tratando de triunfar en la industria musical. A trav�s de los obst�culos que encuentra en su camino y con la influencia de un carism�tico productor musical, el aspirante a DJ se gu�a en el camino que lo lleva al �xito.
+ Direcci�n : Max Joseph
+ Gui�n : Max Joseph, Meaghan Oppenheimer
+ A�o : 2015
+</info>
+ </item>
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-61mly76b2c2p-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>San Andreas Quake</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zdAyMhj2HdOUCcmT8DXpko6uLJR.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jsfCDnIdX6q6h20Z7tzrxpU5yrq.jpg</fanart>
+     <genre>pel�cula de la televisi�n, Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>La falla de San Andr�s acaba cediendo ante las temibles fuerzas tel�ricas y desencadena un terremoto de magnitud 9 en California. El piloto de un helic�ptero de b�squeda y rescate (Johnson) y su ex esposa viajan juntos desde Los �ngeles hasta San Francisco para salvar a su �nica hija. Pero su tortuoso viaje hacia el norte solamente es el comienzo, y cuando piensan que ya ha acabado lo peor todo vuelve a empezar.
+ Direcci�n : John Baumgartner
+ Gui�n : John Baumgartner
+ A�o : 2015
+</info>
+ </item>
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-hug1xhs7airn-740x360.html</page>	 <referer>http://streamin.to</referer></regex>                   <title>Asalto final</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xKmmfA41yA0ddXnswH4EaIreFdS.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bvpnACaFrTtVGMLNWbWIkuE6H7L.jpg</fanart>
+     <genre>Acci�n, Drama</genre>
+ 
+     <info>Un adolescente problem�tico es enviado a hacer servicios comunitarios a una ruinosa escuela de karate. Desde all� entrar� en un torneo de la MMA para encontrar al hombre que mat� a sus padres. (FILMAFFINITY)
+ Direcci�n : Allan Ungar
+ Gui�n : Allan Ungar
+ A�o : 2014
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-m959nzwneduy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Los 6 Ridiculos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k77xcsBtZMq9zIlTVQV7UBemzXD.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jrEbYGtEEv981chqVvYyIU9ni6K.jpg</fanart>
+     <genre>Comedia, Western</genre>
+ 
+     <info>Cuando reaparece su padre, un forajido desaparecido durante muchos a�os, Tommy Stockburn y sus cinco hermanos emprenden un viaje lleno de aventuras por el Oeste.
+ Direcci�n : Frank Coraci
+ Gui�n : Tim Herlihy, Adam Sandler
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-87ve0lvs3x1m-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>La guerra de las galaxias. Episodio III: La venganza de los Sith</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gEZyq29omWjph17BDLNdOCdU6DY.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg</fanart>
+     <genre>Ciencia ficci�n, Aventura, Acci�n</genre>
+ 
+     <info>�ltimo cap�tulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecer� el General Grievous, un ser implacable mitad-alien mitad-robot, el l�der del ej�rcito separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron pr�cticamente exterminados por los Jedi hace mil a�os, pero la orden del mal sobrevivi� en la clandestinidad.
+ Direcci�n : George Lucas
+ Gui�n : George Lucas
+ A�o : 2005
+</info>
+ </item>
+
+
+
+  
+ 
+  <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-bh26lwoxt9xe-740x360.html</page>	 <referer>http://streamin.to</referer></regex> <title>Episodio V: El imperio contraataca </title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sRDFFD4cbGypTOM5Yt5SDj6IaKM.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/AkE7LQs2hPMG5tpWYcum847Knre.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n</genre>
+ 
+     <info>Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compa��a de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el �ltimo maestro Jedi, para que le ense�e los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halc�n Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.
+ Direcci�n : Irvin Kershner
+ Gui�n : Leigh Brackett, Lawrence Kasdan, George Lucas
+ A�o : 1980
+</info>
+ </item>
+ 
+  
+  
+  
+   <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ta7cy7mdrhq0-740x360.html</page>	 <referer>http://streamin.to</referer></regex>  <title>Episodio VI: El retorno del Jedi </title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5Y1v4IvOooaAsdEoYqhz3emn1pm.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/bvJOpyHYWACDusvQvXxKEHFNjce.jpg</fanart>
+     <genre>Aventura, Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el g�ngster m�s temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, est� decidido a reavivar el esp�ritu del Jedi en su padre. La guerra civil gal�ctica culmina en un �ltimo enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidir� el destino de la galaxia.
+ Direcci�n : Richard Marquand
+ Gui�n : Lawrence Kasdan, George Lucas
+ A�o : 1983
+</info>
+ </item>
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-33dnwqiuy5hd-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>El Principito</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eDPVn6f1KlI2XgASAmqSjlHPdjK.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/yXK2LkCRv7wcMqIfKwr1UpSMdmq.jpg</fanart>
+     <genre>Aventura, Fantas�a, Animaci�n</genre>
+ 
+     <info>Para que todo salga bien en la prestigiosa Academia Werth, la peque�a y su madre se mudan a una casa nueva. La peque�a es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino exc�ntrico y generoso. �l le ense�a un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se top� alguna vez con el misterioso Principito. Entonces comienza la aventura de la peque�a en el universo del Principito. Y as� descubre nuevamente su infancia y comprender� que s�lo se ve bien con el coraz�n. Lo esencial es invisible a los ojos. Adaptaci�n de la novela hom�nima de Antoine de Saint-Exupery.
+ Direcci�n : Mark Osborne
+ Gui�n : Irena Brignull, Bob Persichetti, Antoine de Saint-Exup�ry
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-mod74x73bc14-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Elvira, te dar�a mi vida pero la estoy usando</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xFuvO3pXh7scJpNhpAI1uaERhhl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/zoorSzZnNcsUU0aJI3bCZkbGSrh.jpg</fanart>
+     
+ 
+     <info>Una noche cualquiera, Gustavo, esposo de Elvira, sale a comprar cigarros. Nunca regresa. Elvira, de 40 a�os y madre de dos hijos, comienza una incansable b�squeda del amor de su vida. Las pistas la llevan a la conclusi�n de que su marido ha mantenido una relaci�n en secreto. El desafortunado descubrimiento no la detendr� en su misi�n de encontrarlo.
+ Direcci�n : Manolo Caro
+ Gui�n : Manolo Caro
+ A�o : 2014
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-q8167p8142qo-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Everest</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/t3ELL46AnqjS9djz1vEVh4MpKv0.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/uoEGDW5hgEjV14XVIaB0ImqSHgx.jpg</fanart>
+     <genre>Aventura, Drama, Suspense</genre>
+ 
+     <info>Historia basada en la desastrosa expedici�n a la monta�a de 1996 que dej� ocho escaladores muertos.  Jon Krakauer, periodista, escritor y monta�ero estadounidense reconocido por sus libros sobre alpinismo escribi� de primera mano sobre la tragedia, sin embargo, &#x27;Everest&#x27; no es una adaptaci�n literal de su libro, sino que extrae la historia de diversas fuentes incluyendo entrevistas con los supervivientes.
+ Direcci�n : Baltasar Korm�kur
+ Gui�n : Simon Beaufoy, William Nicholson
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-t47ayg6vjssr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Orgullo y Esperanza</title>
+    <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_SX214_AL_.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Drama, Comedia, M�sica</genre>
+ 
+     <info>The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
+ Direcci�n : 
+ Gui�n : 
+ A�o : Tran
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-hjjk5pgt1ecz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Scouts Guide to the Zombie Apocalypse</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3wHxtemithpFQiB7ffa50ZKI6bz.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/g9pgzOel4BzrHSSjezByWWTRZBs.jpg</fanart>
+     <genre>Terror, Comedia</genre>
+ 
+     <info>El film nos contar� como un grupo de chicos Boy Scouts deber� salvar a las chicas scout de un estallido zombi en una noche de acampada. (FILMAFFINITY)
+ Direcci�n : Christopher B. Landon
+ Gui�n : Christopher Landon, Emi Mochizuki, Carrie Lee Wilson, Lona Williams
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nh9ey75ule2y-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>The Perfect Guy</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iiYOyEoYsTFCTYVdVEltnbGtpBC.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/7rUV1dSSF0qTcovbyKxEYnmw00N.jpg</fanart>
+     <genre>Suspense</genre>
+ 
+     <info>Leah Vaughn parece tener la vida ideal. Su carrera profesional progresa a un ritmo vertiginoso y Dave, su novio de toda la vida, la ama. A sus 36 a�os, Leah se siente preparada para dar el siguiente paso, el matrimonio, pero Dave no lo tienen tan claro. De repente aparece Carter, un chico atractivo y encantador en el que Leah cree haber encontrado al hombre perfecto. Todo es demasiado bueno para ser verdad, y el car�cter protector de Carter se empezar� a transformar en algo siniestro... (FILMAFFINITY)
+ Direcci�n : David M. Rosenthal
+ Gui�n : Barbara Curry, Tyger Williams
+ A�o : 2015
+</info>
+ </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0fpravsqup2z-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>Archivo 253</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/YBXCeLm00TQ3PawGflZyzkeC7X.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/gPMIyFJtwZT03DL3fwTgX0oT57a.jpg</fanart>
+     <genre>Terror</genre>
+ 
+     <info>En el 2013 se orden� la demolici�n de una cl�nica psiqui�trica la cual atendi� durante m�s de 50 a�os a pacientes en la Ciudad de M�xico. Unos meses antes de su demolici�n, cuatro j�venes entraron a investigar la cl�nica y, decididos a descubrir la verdad sobre los rumores de sucesos extra�os y paranormales, grabaron todo con lo que se toparon. Al d�a de hoy se desconoce el paradero de estos cuatro j�venes y solo quedan restos de sus grabaciones.
+ Direcci�n : Abe Rosenberg Fishbein
+ Gui�n : Abe Rosenberg Fishbein, Joseph Hemsani Levy
+ A�o : 2015
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-x00mytwgx9v1-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>D�as de vinilo</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9aOUIsaOwYaWaqIx2YSMqUGGYKM.jpg</thumbnail>
+     <fanart> </fanart>
+     <genre>Comedia, Romance</genre>
+ 
+     <info>Dami�n, Marcelo, Luciano y Facundo son cuatro amigos treinta�eros cuya relaci�n est� atravesada por tres grandes temas: la m�sica, la amistad y las mujeres. Dami�n, es escritor y guionista. Para recuperar a Ana, su ex, escribi� un gui�n de cine, cuya �nica copia pierde a manos de Vera, una mujer muy particular que se entrometer� en su vida para empezar a modificarla.
+ Direcci�n : Gabriel Nesci
+ Gui�n : Gabriel Nesci
+ A�o : 2012
+</info>
+ </item>
+
+
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-hqa3z08c8ksr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          title>Fuerzas Especiales</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fBBu13iPRvBXnJtfWzhj9lgf6WI.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/e1Qbeyvkd1sXa8x7QdsOxvomIe3.jpg</fanart>
+     <genre>Comedia, Acci�n</genre>
+ 
+     <info>Al eficaz Cabo Freire se le asigna un nuevo compa�ero el Cabo Salinas, un polic�a dedicado a su labor pero completamente inepto, juntos enfrentaran a los casos mas extravagantes de la regi�n metropolitana.
+ Direcci�n : Fuerzas Especiales
+ Gui�n : 
+ A�o : 2014
+</info>
+ </item>
+
+
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-5izhifqk10dz-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Iron Man 2</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zJ2eK7fehqFSQ2w5JlQIF0OJP9q.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/jxdSxqAFrdioKgXwgTs5Qfbazjq.jpg</fanart>
+     <genre>Aventura, Acci�n, Ciencia ficci�n</genre>
+ 
+     <info>El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superh�roe enmascarado. A pesar de las presiones del gobierno, la prensa y la opini�n p�blica para que comparta su tecnolog�a con el ej�rcito, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa informaci�n caiga en en manos de irresponsables. Con Pepper Potts (Gwyneth Paltrow) y James �Rhodey� Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.
+ Direcci�n : Jon Favreau
+ Gui�n : Justin Theroux
+ A�o : 2010
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wrjvp4qk7qyt-740x360.html</page>	 <referer>http://streamin.to</referer></regex>       <title>Iron Man 3</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zVuLZbqoSzWLVDdUVKPLOgR8hD3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/n9X2DKItL3V0yq1q1jrk8z5UAki.jpg</fanart>
+     <genre>Acci�n, Aventura, Ciencia ficci�n</genre>
+ 
+     <info>En esta ocasi�n el imponente superh�roe Iron Man intentar� mejorar su armadura mediante una nueva tecnolog�a y, entre otros personajes, estar� acompa�ado de su gran amiga Pepper Potts (Gwyneth Paltrow), su aliado de armas James Rhodes y su guardaespaldas Happy Hogan.  Esta nueva entrega de la historia se inspira en la colecci�n de comics titulada &#x27;Extremis&#x27;, escrita por Warren Ellis y dibujada por Adi Granov que fue publicada entre el a�o 2005 y el a�o 2006. En esta parte, el argumento se desarrolla en un mundo m�s realista y menos fantasioso que el de las anteriores, donde los acontecimientos sucedidos en &#x27;Marvel: Los Vengadores&#x27; tienen constancia pero no resultan ser el eje central de la pel�cula. De esta forma, el tercer cap�tulo de la saga Iron Man revolucionar� el estilo de las anteriores conservando su esencia, pero con originales innovaciones que sorprender�n a todos los fans de la serie.
+ Direcci�n : Shane Black
+ Gui�n : Shane Black, Drew Pearce
+ A�o : 2013
+</info>
+ </item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4qk9s0hh5ujm-740x360.html</page>	 <referer>http://streamin.to</referer></regex>     <title>La ley de Herodes</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gcpJiHlvjfHaP8srG6PwhvkA7w6.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/2wpEcR8gvwqI1hToKmloGB67pK2.jpg</fanart>
+     <genre>Comedia, Crimen, Drama, Foreign</genre>
+ 
+     <info>En el a�o 1949 los habitantes de la localidad de San Pedro de los Saguaros decapitan de un machetazo a su alcalde cuando trataba de huir del pueblo con el dinero de las arcas municipales.  El licenciado L�pez, secretario del gobernador, decide nombrar a Juan Vargas, encargado de un basurero y antiguo militante del P.R.I., como nuevo alcalde hasta las pr�ximas elecciones en las que �l es firme aspirante a la gubernatura del estado.  Vargas afronta su misi�n con las mejores intenciones, hasta que poco a poco va descubriendo los beneficios del poder y la corrupci�n.
+ Direcci�n : Luis Estrada
+ Gui�n : Jaime Sampietro, Vicente Le�ero, Fernando Javier Le�n Rodr�guez, Luis Estrada
+ A�o : 1999
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-e2mriwxkasq5-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>Los 33 de San Jos�</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fTcrrGR9aqmhahK0a2gUSLv3sed.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/ghb89ahPkSASDHSotxj9eflQ2qi.jpg</fanart>
+     
+ 
+     <info>33 es el verdadero h�roe de la historia de los mineros que quedaron atrapados 700 metros bajo tierra, despu�s de un derumbe en la mina San Jos� en Chile, 5 de agosto de 2010. La pel�cula muestra no s�lo c�mo los hombres milagrosamente lograr�n mantenerse vivo gracias a las raciones dura disciplina, y el deseo, sino tambi�n c�mo un pa�s est� de acuerdo cuando la necesidad lo exig�a. Familiares, periodistas y trabajadores humanitarios hicieron todo lo posible en el campo alrededor de la mina, mientras que la situaci�n se volvi� m�s cr�tica. Una historia sorprendente, emocionante de coraje, esperanza y caridad, que hab�a mil millones de personas en todo el mundo para contener la respiraci�n en frente de los televisores.
+ Direcci�n : Antonio Recio
+ Gui�n : Antonio Recio, Jacobo Bergareche
+ A�o : 2011
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-n76vsayvrcro-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>A todo gas</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6B7EUs2SEtYfBGfUP6wELmYVUJQ.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/lmIqH8Qsv3IvDg0PTFUuVr89eBT.jpg</fanart>
+     <genre>Acci�n, Crimen, Suspense</genre>
+ 
+     <info>Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde veh�culos deportivos. La polic�a decide infiltrar a un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tuning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso n�mero uno, pero todo se complica cuando se enamora de la hermana de �ste.
+ Direcci�n : Rob Cohen
+ Gui�n : Ken Li, Gary Scott Thompson, Erik Bergquist, David Ayer
+ A�o : 2001
+</info>
+ </item>
+ 
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-nu7u1glp6i9u-740x360.html</page>	 <referer>http://streamin.to</referer></regex>          <title>A todo gas: Tokyo Race</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2ahMmqFaahtGtTEwOYvZ3UEnzo7.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/kOZbGxeGMJ4Y6bxv8eOadFt8QLF.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama, Suspense</genre>
+ 
+     <info>Cuando amenazan con encarcelarle, le mandan fuera del pa�s a pasar una temporada con su t�o, un militar destinado en Jap�n, que vive en un diminuto piso en un barrio barato de Tokio. En el pa�s donde nacieron la mayor�a de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el �ltimo reto automovil�stico que desaf�a la gravedad, las carreras de drift (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag. En su primera incursi�n en el salvaje mundo de las carreras de drift, Shaun acepta ingenuamente conducir un D.K, el Rey del Drift, que pertenece a los Yakuza, la mafia japonesa. Para pagar su deuda, no tiene m�s remedio que codearse con el hampa de Tokio y jugarse la vida.
+ Direcci�n : Justin Lin
+ Gui�n : Chris Morgan
+ A�o : 2006
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-8og23vwehvdi-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Fast & Furious: A�n m�s r�pido</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8vbsNHp1LZDXHEler0DA1nfiY9C.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/1R2ihQztuRTIqN3pFBR1yrBMd7w.jpg</fanart>
+     <genre>Acci�n, Crimen, Drama, Suspense</genre>
+ 
+     <info>El fugitivo y ex preso Dom Toretto (Vin Diesel) y el detective Brian O�Conner (Paul Walker) vuelven a encontrarse en Los �ngeles y siguen llev�ndose igual de mal. Sin embargo, obligados a enfrentarse a un enemigo com�n, no les queda m�s remedio que unir sus fuerzas si quieren vencerle. Despu�s del atraco a un convoy, los dos protagonistas descubrir�n que si quieren vengarse, deber�n llegar al l�mite de sus posibilidades al volante... Nueva entrega de la serie que volvi� a contar con su -ahora ya famosos- 4 protagonistas originales, circustancia que resaltan en su original leyenda: Nuevo modelo. Piezas originales.
+ Direcci�n : Justin Lin
+ Gui�n : Chris Morgan
+ A�o : 2009
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-zch5yj7fg2g9-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Fast & Furious 5</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/b30jcz37PpugcOsveqojMQJ9iMl.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/nL1Q0micYpF5nNkaI2ZNeLuOLGZ.jpg</fanart>
+     <genre>Acci�n, Suspense, Crimen</genre>
+ 
+     <info>Desde que Brian O&#x27;Conner (Paul Walker) y Mia Toretto (Jordana Brewster) sacaron a Dom Toretto (Vin Diesel) de la c�rcel, se han visto obligados a huir y cruzar muchas fronteras para evitar a la polic�a. Atrapados en R�o de Janeiro, una vez m�s tienen que darse a la fuga si quieren conservar la libertad. Pero los tres saben muy bien que la �nica posibilidad que tienen de poner fin a esta situaci�n es enfrentarse de una vez por todas al empresario corrupto que quiere verlos muertos. Pero �ste no es el �nico que les sigue la pista.
+ Direcci�n : Justin Lin
+ Gui�n : Chris Morgan
+ A�o : 2011
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4zj0xbkf35vg-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Fast & Furious 6</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zeuZi2I6XohULG53aCn5ZHiTbIa.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qjfE7SkPXpqFs8FX8rIaG6eO2aK.jpg</fanart>
+     <genre>Acci�n, Crimen, Suspense</genre>
+ 
+     <info>Desde que Dom y Brian destruyeron el imperio de un mafioso y se hicieron con cien millones de d�lares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs ha seguido la pista por una docena de pa�ses a una banda de letales conductores mercenarios, cuyo cerebro cuenta con la inestimable ayuda de la sexy Letty, un viejo amor de Dom que �ste daba por muerta. La �nica forma de detenerlos es enfrentarse a ellos en las calles, as� que Hobbs le pide a Dom que re�na a su equipo en Londres. �Qu� obtendr�n a cambio? Un indulto para que todos puedan volver a casa con sus familias.
+ Direcci�n : Justin Lin
+ Gui�n : Chris Morgan
+ A�o : 2013
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-946z8ey8mo2w-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Sexo, Pudor y L�grimas</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2grBQ0bnhqAxfb7jWTyeoRlJeeo.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/dM1K2JpQBEMVyD2IhSwxCtaCOLq.jpg</fanart>
+     <genre>Comedia, Drama, Foreign, Romance</genre>
+ 
+     <info>Infidelidad y sus consecuencias, separaciones y reconciliaciones, promiscuidad y continencia, deseos y rechazos; pero sobre todo, la b�squeda desesperada del amor entre 6 j�venes, 3 chicas y 3 chicos, en dos apartamentos en el coraz�n de Ciudad de M�xico. Los hombres terminan en un piso y las mujeres en el otro, y desde ellos, se esp�an mutuamente. (FILMAFFINITY)
+ Direcci�n : Antonio Serrano
+ Gui�n : 
+ A�o : 1999
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-ds8lem1fxqqa-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Expediente Warren</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/opKxoICmroU1qFKtxwMZwQY9mA2.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/C9Fiv2lZOuQEWWuXB8C0LVZapC.jpg</fanart>
+     <genre>Terror, Suspense</genre>
+ 
+     <info>&#x27;The Conjuring&#x27; cuenta la terror�fica historia de la familia Perron que, en la d�cada de los 70, afirmaron haber contactado con esp�ritus tanto bondadosos como malvados; en su domicilio del estado de Rhode Island. Sus presuntos encuentros sobrenaturales fueron estudiados e investigados por Ed y Lorraine Warren, dos personas contratadas por la familia Perron, con mucha experiencia en casos paranormales y veteranos en materia espiritual. Ambos descubrieron muy pronto que las apariciones estaban relacionadas con el esp�ritu de un ni�o y una misteriosa caja de m�sica.
+ Direcci�n : James Wan
+ Gui�n : Chad Hayes, Carey Hayes
+ A�o : 2013
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-iakslletxokc-740x360.html</page>	 <referer>http://streamin.to</referer></regex>      <title>Un cuento chino</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rcCK3c6WSQvf3OhTdeRn7Z4F8kw.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/fxsL1zTqYHbxbgpKkBKfBk8hxDt.jpg</fanart>
+     <genre>Comedia</genre>
+ 
+     <info>La pel�cula trata la historia de Roberto Di Cesare, un ferretero gru��n y solitario que se cruza por casualidad en Buenos Aires con Jun, un chino que no habla espa�ol y que esta s�lo en Argentina, en busca de un t�o. El encuentro entre ambos lleva a una serie de situaciones graciosas en la convivencia entre ambos, as� como a situaciones dram�ticas cuando ambos comparten sus pasados, signados por una tragedia relacionada con una vaca que cae del cielo, y con la Guerra de Malvinas. Al mismo tiempo, Mari, una mujer llegada del campo, intenta conquistar a Roberto.
+ Direcci�n : Sebasti�n Borensztein
+ Gui�n : Sebasti�n Borensztein
+ A�o : 2012
+</info>
+ </item>
+
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-wh69oxp72lhr-740x360.html</page>	 <referer>http://streamin.to</referer></regex>        <title>Violeta se fue a los cielos</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3Wlqk1vIGwltOQhlfPyoAkV8MeY.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/7pE2JxdcPw1Fcgb2z8hzSO1UECC.jpg</fanart>
+     <genre>Drama</genre>
+ 
+     <info>Desde la carpa que levant� en La Reina, Violeta Parra es visitada por sus sue�os, vivencias e ilusiones. Est� viva, pero quiz�s est� muerta, eso abre una gran expectativa en la que nos vamos enterando poco a poco de sus secretos, miedos, frustraciones y alegr�as.  Adaptaci�n libre del libro hom�nimo de �ngel Parra.  �Escribe como quieras, usa los ritmos que te salgan, prueba instrumentos diversos, si�ntate en el piano, destruye la m�trica, grita en vez de cantar, sopla la guitarra y toca la corneta. Odia las matem�ticas y ama los remolinos. La creaci�n es un p�jaro sin plan de vuelo, que jam�s volar� en l�nea recta� (Violeta Parra). Reconstrucci�n sin una l�nea cronol�gica del mundo interior de la artista chilena Violeta Parra: las personas que plasmaron su vida, sus viajes, amores, sue�os, frustraciones, ilusiones y miedos. (FILMAFFINITY)
+ Direcci�n : Andr�s Wood
+ Gui�n : Eliseo Altunaga
+ A�o : 2011
+</info>
+ </item>
 
 </stream>
