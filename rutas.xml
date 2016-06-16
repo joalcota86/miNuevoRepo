@@ -16,7 +16,7 @@
 					
 					a la cuenta joalcota86@gmail.com
 					
--->
+
 
 
 <items>
@@ -74,6 +74,87 @@
 <externallink>http://adryanlist.org/adryan/musi.xml</externallink>
 </item>
 
-
-
 </items>
+-->
+
+<stream>
+
+<item>
+<title>[COLOR yellow][B][I] El Conjuro 2 [/I][/B][/COLOR]</title>
+<link>http://streamin.to/embed-4piveve0e5mq-740x360.html</link>
+<thumbnail>https://1.bp.blogspot.com/-hocYTtOYNok/Vw_fknzhjlI/AAAAAAAAj-Y/WU8EGFhVj2Ez2bXexfwnwR69g1PduYYewCLcB/s640/el-conjuro-2.png</thumbnail>
+</item>
+
+<item>
+<title>Name of News channel 2</title>
+<link>http://sample_link_to_news_channel.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>YouTube - Video Link</title>
+<link>https://www.youtube.com/watch?v=xxxxxxxx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>YouTube - Video Link</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxx</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - Video Link</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xxxxxxxx</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - Video Link</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=xxxxxxxx</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - User (playlists)</title>
+<link>https://www.youtube.com/user/UserName</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - User (playlists)</title>
+<link>plugin://plugin.video.youtube/user/UserName</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - Channel (playlists)</title>
+<link>https://www.youtube.com/channel/ChannelName</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>YouTube - Channel (playlists)</title>
+<link>plugin://plugin.video.youtube/channel/ChannelName</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>DailyMotion - Video Link</title>
+<link>http://www.dailymotion.com/video/yyyyy_xxxx-xxx-xxx-xxx_xxxxx</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>DailyMotion - Video Link</title>
+<link>http://www.dailymotion.com/video/yyyyy</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+<item>
+<title>DailyMotion - Video Link</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=playVideo&amp;url=yyyyy</link>
+<thumbnail>http://www.link to thumbnail</thumbnail>
+</item>
+
+</stream>
