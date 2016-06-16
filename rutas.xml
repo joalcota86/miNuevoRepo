@@ -26,11 +26,10 @@
 		<fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
 	</item>
 	<item>
-		<title>TITULO DEL CANAL</title>
-	<link>URL</link>
-    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
-    </item>
-
+		<title>Peliculas audio latino</title>
+		<link>http://adryanlist.org/adryan/audio_latino.xml</link>
+		<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+		</item>
 	</channel>
 	
     <channel>
