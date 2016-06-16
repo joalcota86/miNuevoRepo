@@ -1,18 +1,11 @@
-    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<items>
-
-<!--sportsdevil iguide-->
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items><!--sportsdevil iguide-->
 <item>
-<title>sportsdevil iguide</title>
+	<title>sportsdevil iguide</title>
 	<sportsdevil>http://www.iguide.to/embedplayer_new.php?channel=33454&autoplay=true</sportsdevil>
 	<referer>http://www.iguide.to</referer>
 </item>
-
 <!--sportsdevil Janjua-->
-
 <item>
 <title>sportsdevil janjua</title>
 <sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
@@ -47,7 +40,7 @@
 
 <item>
 <title>VIMEO  </title>        
-<link>https://player.vimeo.com/video/163874701?autoplay=1</link>
+<link>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</link>
 </item>
 
 <!--F4m Archivos HLS -->
