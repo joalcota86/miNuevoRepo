@@ -79,14 +79,6 @@
 </items>
 
 
-
-
-<!--<item>
-<title>[COLOR yellow][B][I] El Conjuro 2 [/I][/B][/COLOR]</title>
-<link>http://streamin.to/embed-4piveve0e5mq-740x360.html</link>
-<thumbnail>https://1.bp.blogspot.com/-hocYTtOYNok/Vw_fknzhjlI/AAAAAAAAj-Y/WU8EGFhVj2Ez2bXexfwnwR69g1PduYYewCLcB/s640/el-conjuro-2.png</thumbnail>
-</item>-->
-
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 
 <referer>http://streamin.to</referer></regex>      [COLOR blue]   <title>Alicia a Través del Espejo - TS Latino</title>[/COLOR]
     <thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
