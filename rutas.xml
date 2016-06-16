@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channels>
+    <channels_info> <!-- this is optional -->
+      <title>TITULO DE LA LISTA</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Varior GENEROS</genre>
+      <description>Lista de películas agregadas por Jor-El</description>
+      <thumbnail>http://4.bp.blogspot.com/_y1w5uc7K-b4/TFdNml4MLaI/AAAAAAAAF3w/vdKP_V7B_ms/s1600/Peliculas2-TuneaTaringa.blogspot.com-Barras%20Separadoras.png</thumbnail>
+      <fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart>
+      <date>AÑO</date>
+      <credits>Hecho por Jor-El</credits>
+    </channels_info>
+	 
+    <channel>
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>   </item>
@@ -2022,3 +2033,6 @@
  Año : 2011
 </info>
  </item>
+	</channel>
+
+	</channels>
