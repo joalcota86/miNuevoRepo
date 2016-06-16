@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<items>
+<view>movies</view>
+<fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>   </item>
