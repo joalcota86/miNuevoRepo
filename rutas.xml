@@ -18,7 +18,7 @@
 					
 -->
 
-
+<stream>
 <items>
 <items_info> <!-- this is opitonal -->
       <title>Lista de Películas</title> 
@@ -70,8 +70,8 @@
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<!--<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/audio-latino.xml</externallink>
-<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/peliculas.xml</externallink>-->
+<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/audio-latino.xml</externallink>
+<!--<externallink>https://raw.githubusercontent.com/joalcota86/miNuevoRepo/master/peliculas.xml</externallink>-->
 </item>
 
 
@@ -79,7 +79,7 @@
 </items>
 
 
-<stream>
+
 
 <!--<item>
 <title>[COLOR yellow][B][I] El Conjuro 2 [/I][/B][/COLOR]</title>
