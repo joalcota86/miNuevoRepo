@@ -11,6 +11,11 @@
     </channels_info>
 	 
     <channel>
+    	<name>NOMBRE CATEGORÍA</name>
+    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
+    <thumbnail>http://cdn2.hubspot.net/hub/358248/file-2539707459-png/50-peliculas-para-geeks.png</thumbnail>
+    <fanart>http://static.batanga.com/sites/default/files/styles/full/public/tech.batanga.com/files/Sitios-legales-para-ver-pel%C3%ADculas-Online-1.jpg?itok=XR_3YEtf</fanart>
+    
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 tshq latino </title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
      <genre>Terror</genre>   </item>
