@@ -16,17 +16,18 @@
     	<fanart>http://static.batanga.com/sites/default/files/styles/full/public/tech.batanga.com/files/Sitios-legales-para-ver-pel%C3%ADculas-Online-1.jpg?itok=XR_3YEtf</fanart>
     	<item>
     		<title>Películas en Audio Latino</title>
-    		<link>http://adryanlist.org/adryan/audio_latino.xml</link>
+    		<link>http://ignora.me</link>
+    		<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
     		<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
     		</item>
     	<item>
-	<title>TITULO DEL CANAL</title>
-	<link>URL</link>
-    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
-    </item>
-
-    <item>
-	<title>TITULO DEL CANAL</title>
+		<title>Películas en estreno</title>
+		<link>http://ignora.me</link>
+    		<externallink>http://adryanlist.org/adryan/estrenos.xml</externallink>
+		<thumbnail>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</thumbnail>
+	</item>
+	<item>
+		<title>TITULO DEL CANAL</title>
 	<link>URL</link>
     <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
     </item>
