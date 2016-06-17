@@ -1,22 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!----------------------
-					BIENVENIDO  A Geortronics Corp.
-					
-					www.facebook.com/joalcota
-					
-					LISTA DE CANALES PARA KODI
-					
-					1.- Instalar el Addon ListMovies 
-						Descargar: www.facebook.com/joalcota
-					2.- Disfrutar ! 
-					
-					PARA QUE LA LISTA SIGA ACTIVA , APOYAME INVITANDOME UN CAFE 
-					
-					A TRAVES DE UNA DONACION POR PAYPAL
-					
-					a la cuenta joalcota86@gmail.com
-					
-
 
 <stream>
 
@@ -34,7 +16,7 @@
     <fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart> 
         <items> 
         <item>
-        	<title>[COLOR lime]•[/COLOR][COLOR black]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
+        	<title>[COLOR lime]•[/COLOR][COLOR white]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
         	<link>http://ignorame</link>
         	<thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
         	<fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
