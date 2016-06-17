@@ -28,14 +28,21 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
+<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
+<link>http://ignorame</link>
+<regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 
+<referer>http://streamin.to</referer></regex>
+<thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
 <externallink>http://streamin.to/embed-4piveve0e5mq-740x360.html</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
-<link>http://streamin.to/embed-4piveve0e5mq-740x360.html</link><thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
+<title>[COLOR lime]•[/COLOR][COLOR black]  [B]Alicia a Través del Espejo - TS Latino[/B] [/COLOR]</title>
+<link>http://streamin.to/embed-4piveve0e5mq-740x360.html</link>
+<regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-4piveve0e5mq-740x360.html</page>	 
+<referer>http://streamin.to</referer></regex>
+<thumbnail>https://image.tmdb.org/t/p/w500/v3Sn2BXCWglFFDUaHWHifIhyDnv.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2azgMtH7vt5av3OgqdiMJfjn3EH.jpg</fanart>
 </item>
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-aemk4mjlq1c6-740x360.html</page>	 
