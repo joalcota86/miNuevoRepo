@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1, Angry Birds - La Película,tvg-logo="@CARTEL",tvg-wall="https://image.tmdb.org/t/p/w500/uiOK4gnD6SV4dM1JiE56KFjHE6r.jpg",imdb="@IMDB",genre="@GENERO",votes="@VOTOS",time="@DURACION",year="@ANO",dir="@DIRECTOR",wri="@GUION",plot="@ARGUMENTO",cast="@CASTING"
+http://streamin.to/embed-thyyrbrxlo8y-740x360.html
 #EXTINF:-1,El matador
 http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?
 #EXTINF:-1,Nina mala
